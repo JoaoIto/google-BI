@@ -1,4 +1,4 @@
-# Google Data Analytics: Business Intelligence - Projeto Final (Google Fiber)
+# Google Business Intelligence - Projeto Final (Google Fiber)
 
 <div align="center">
   <a href="https://coursera.org/verify/O3KJO7CXWBTA">
