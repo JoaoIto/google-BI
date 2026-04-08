@@ -5,7 +5,13 @@ Esta atividade faz parte do processo de aprendizado sobre o estágio de **Extra�
 ---
 
 ## 1. Contexto da Atividade
-Como profissional de BI, você usará ferramentas como BigQuery e Dataflow para mover e analisar dados. Nesta tarefa, o foco foi extrair dados de uma fonte pública e organizá-los em uma tabela personalizada para análise posterior.
+Como profissional de BI, você usará ferramentas como BigQuery e Dataflow para mover e analisar dados. Nesta tarefa, o foco foi extrair dados de uma fonte pública (Tabela de Origem) e organizá-los em uma **Tabela de Destino** personalizada.
+
+### Tipos de Extração de Dados
+Existem três maneiras principais de extrair dados de uma fonte para uma tabela de destino:
+- **Notificação de Atualização:** O sistema de origem avisa quando um registro muda, disparando a extração.
+- **Extração Incremental:** O sistema de BI identifica apenas os dados alterados desde a última carga e os ingere.
+- **Extração Completa:** O sistema extrai a tabela inteira da origem para o destino (ideal para tabelas menores ou cargas iniciais).
 
 ---
 
@@ -25,13 +31,13 @@ ORDER BY number_of_trees DESC
 LIMIT 10;
 ```
 
-### Explicação das Cláusulas:
-*   **SELECT & COUNT**: Selecionamos os endereços e contamos quantas árvores existem em cada um. O resultado da contagem é renomeado para `number_of_trees`.
-*   **FROM**: Especifica a tabela de origem `street_trees` dentro do conjunto público do BigQuery.
-*   **WHERE**: Filtra os dados para garantir que apenas linhas com endereços válidos (não nulos) sejam incluídas.
-*   **GROUP BY**: Agrupa os registros pelo endereço, permitindo que a função `COUNT` funcione corretamente para cada local.
-*   **ORDER BY**: Organiza os resultados em ordem decrescente (`DESC`), trazendo os locais com mais árvores para o topo.
-*   **LIMIT**: Restringe o resultado aos 10 primeiros registros para otimizar o tempo de processamento.
+### Explicação Detalhada das Cláusulas:
+*   **SELECT & COUNT**: Selecionamos os endereços e usamos a função `COUNT(address)` para contar quantas árvores existem em cada um. Isso retorna uma única linha por endereço com o total calculado, em vez de uma linha por árvore. O resultado é renomeado para `number_of_trees`.
+*   **FROM**: Especifica a tabela de origem `street_trees` dentro do conjunto público do BigQuery (`bigquery-public-data.san_francisco_trees`).
+*   **WHERE**: Filtra os dados para garantir que a tabela de destino inclua apenas linhas que tenham um valor válido na coluna de endereço (`address != "null"`).
+*   **GROUP BY**: Essencial ao usar funções de agregação como `COUNT`. Agrupa os registros pelo endereço, garantindo que a contagem seja feita por local.
+*   **ORDER BY**: Organiza os resultados em ordem decrescente (`DESC`), trazendo os locais com maior densidade de árvores para o topo.
+*   **LIMIT**: Restringe o resultado aos 10 primeiros registros. Em grandes conjuntos de dados, isso economiza tempo de processamento e custos de consulta.
 
 ---
 

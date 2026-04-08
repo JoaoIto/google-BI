@@ -12,6 +12,14 @@ Foco na extração de dados públicos (árvores de São Francisco) e criação d
 Estudo de caso sobre a importância da fusão de dados de múltiplas fontes e guia prático para uso do BigQuery sem custo.
 - **Conceitos:** Data Fusion, Stakeholders, Sandbox Environment.
 
+### 3️⃣ [Atividade 3: Unificar Dados com Tabelas de Destino](./activity-3-create-destination/README.md)
+Referência teórica sobre tipos de extração de dados e unificação em tabelas de destino, acompanhada dos dados exportados (CSV).
+- **Conceitos:** ETL, Notificação vs Incremental vs Total, Exportação CSV.
+
+### 4️⃣ [Atividade 4: Estudo de Caso Wayfair](./activity-4-wayfair-case-study/README.md)
+Estudo sobre a colaboração com stakeholders para o design de pipelines eficientes e escaláveis em larga escala.
+- **Conceitos:** Stakeholder Management, Pricing Catalog, Scalability.
+
 ---
 
 ## 🚀 Ferramentas
