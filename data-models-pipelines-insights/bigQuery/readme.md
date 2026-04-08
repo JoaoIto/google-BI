@@ -20,6 +20,10 @@ Referência teórica sobre tipos de extração de dados e unificação em tabela
 Estudo sobre a colaboração com stakeholders para o design de pipelines eficientes e escaláveis em larga escala.
 - **Conceitos:** Stakeholder Management, Pricing Catalog, Scalability.
 
+### 5️⃣ [Atividade 5: Tendências Culturais com Google Books Ngrams](./activity-5-cultural-trends-ngrams/README.md)
+Exploração de um dataset massivo (Petabytes) para analisar o uso de termos e conceitos ao longo dos anos.
+- **Conceitos:** Big Data, Time-series analysis, Ngrams.
+
 ---
 
 ## 🚀 Ferramentas
