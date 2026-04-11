@@ -18,7 +18,7 @@ Nesta etapa, o pipeline acessa os sistemas de origem para ler e coletar os dados
 As atividades de transformação preparam os dados para análise com base nos requisitos do negócio.
 *   **Validação e Limpeza**: Remoção de erros e inconsistências.
 *   **Mapeamento**: O pipeline garante que os tipos de dados da fonte se ajustem às convenções e esquemas do destino.
-*   **Destaque**: É aqui que o profissional de BI garante a integridade dos dados antes que cheguem ao sistema final.
+*   **Destaque**: É aqui que o profissional de BI garante a integridade dos dados antes que cheguem ao sistema final. Veja mais em [Testes de Qualidade de Dados](../../quality-tests/readme.md).
 
 ### 3ª Fase: Carregamento (Load)
 É o estágio final, onde os dados são entregues ao destino desejado.
