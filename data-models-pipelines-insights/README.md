@@ -12,6 +12,7 @@ Abaixo estão os tópicos navegáveis deste módulo, organizados por área de co
 - **[ETL vs ELT: Evolução do Processamento](./ETLvsELT/README.md)**: Comparação entre modelos tradicionais e modernos de movimentação de dados, incluindo a diferença entre Data Warehouses e Data Lakes.
 - **[Data Models and Pipelines](./data-models-pipelines/readme.md)**: Fundamentos sobre a construção e o fluxo de dados.
 - **[Testes de Qualidade de Dados](./quality-tests/readme.md)**: Processo de verificação de defeitos nos dados (Completude, Consistência, Conformidade, Precisão, Redundância, Integridade e Atualidade).
+- **[Governança de Dados: Dicionários e Linhagem](./data-governance/readme.md)**: Ferramentas de conformidade para garantir dados corretos da fonte ao destino.
 
 ### 2️⃣ Bancos de Dados e Armazenamento
 - **[Google BigQuery - Hub Técnico](./bigQuery/README.md)**: Nosso centro de práticas reais, estudos de caso (Wayfair, Aviva) e consultas em datasets massivos (Ngrams).
