@@ -9,6 +9,7 @@ Para garantir a conformidade dos dados desde a origem até o destino final (Sing
 | Ferramenta | Função Principal |
 | :--- | :--- |
 | **Validação de Esquema** | Garante que o formato dos dados (tipos, nulos, chaves) obedeça às regras do banco. Veja a [Lista de Verificação](./list-verifications/readme.md). |
+| **Regras de Negócio** | Restrições lógicas que garantem que os dados atendam às necessidades da empresa. Veja o [Guia e Checklist](./business-rules/README.md). |
 | **Dicionário de Dados** | Documenta o significado, a estrutura e a origem de cada objeto de dado. |
 | **Linhagem de Dados** | Rastreia a jornada do dado, mostrando de onde veio e como foi transformado. |
 
@@ -88,9 +89,12 @@ Uma ONG educacional ingere dados de diversas escolas para medir o desempenho est
 
 ---
 
-## ✅ Checklist de Validação
-Para aprofundar-se na estruturação correta de tabelas e chaves, consulte:
-👉 **[Lista de Verificação e Estudo de Caso (Sales Fact)](./list-verifications/readme.md)**
+## ✅ Checklists de Verificação
+
+Para garantir a integridade total dos seus sistemas de BI, consulte as listas detalhadas:
+
+1.  👉 **[Validação de Esquema e Chaves (Sales Fact)](./list-verifications/readme.md)**
+2.  👉 **[Regras de Negócio e Lógica Operacional](./business-rules/README.md)**
 
 ---
 
