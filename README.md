@@ -9,7 +9,9 @@
         </a>
       </td>
       <td style="border: none; padding: 10px;">
-        <img src="https://github.com/JoaoIto/google-bi-foundaments/blob/main/data-models-pipelines-insights/assets/certificado2.png?raw=true" alt="Certificado 2" width="400">
+        <a href="https://coursera.org/verify/6O7KNFKOXU4W">
+          <img src="https://github.com/JoaoIto/google-bi-foundaments/blob/main/data-models-pipelines-insights/assets/certificado2.png?raw=true" alt="Certificado 2" width="400">
+        </a>
       </td>
     </tr>
   </table>

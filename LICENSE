@@ -1,27 +1,38 @@
-Copyright (c) 2026 João Victor Póvoa França
+# Licença de Conteúdo e Código
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Este repositório contém uma combinação de materiais de estudo públicos e ativos de propriedade pessoal. A aplicação da licença é dividida conforme as categorias abaixo:
 
 ---
 
-Este projeto é resultado da conclusão bem-sucedida do certificado profissional "Foundations of Business Intelligence", autorizado pelo Google e ministrado através da Coursera. 
+## 1. Materiais de Estudo e Notas Técnicas (Licença MIT)
 
-Certificado Pessoal: https://coursera.org/verify/O3KJO7CXWBTA
-Concluído por: João Victor Póvoa França
-Data de Conclusão: 10 de Março de 2026
+Todo o código de exemplo, anotações de estudo e documentações técnicas gerais estão licenciados sob a **Licença MIT**:
+
+Copyright (c) 2026 João Victor Póvoa França
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## 2. Projetos de Conclusão e Certificados (Uso Pessoal e Validação)
+
+**Esta seção NÃO está licenciada sob a Licença MIT.**
+
+Os itens abaixo são de propriedade intelectual exclusiva de **João Victor Póvoa França**:
+
+*   **Certificados Profissionais**: Imagens e links de verificação da Coursera/Google.
+*   **Projetos de Conclusão (Capstone Projects)**: As soluções finais, dashboards e apresentações dos cursos (ex: Projetos Google Fiber).
+
+**Termos de Uso para esta seção:**
+- **Visualização**: Permitida para fins de recrutamento, seleção e validação de habilidades.
+- **Reprodução**: É estritamente proibida a cópia, modificação, redistribuição ou uso comercial das soluções de projeto e dos certificados para fins de obtenção de certificação por terceiros ou qualquer outra finalidade não autorizada.
+- **Validação Oficial**: 
+    1. [Foundations of Business Intelligence](https://coursera.org/verify/O3KJO7CXWBTA)
+    2. [Data Models, Pipelines and Insights](https://coursera.org/verify/6O7KNFKOXU4W)
+
+---
+*Concluído por: João Victor Póvoa França em Abril de 2026.*
