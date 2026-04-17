@@ -45,3 +45,18 @@ Como profissional de BI, a criação de painéis visa capacitar as partes intere
 - Tomar decisões baseadas em evidências e dados concretos.
 
 Reconhecer e saber quando aplicar cada tipo de painel é uma habilidade essencial para criar ferramentas que atendam aos requisitos comerciais específicos de uma organização.
+
+---
+
+## Diferenciando o Escopo
+
+No Business Intelligence, a palavra "escopo" pode ser usada em diferentes contextos. É fundamental entender se estamos discutindo o projeto como um todo ou a ferramenta específica (o painel).
+
+| Característica | Escopo do Projeto | Escopo do Painel |
+| :--- | :--- | :--- |
+| **Definição** | Refere-se às metas gerais do projeto, recursos, entregas, prazos, colaboradores e partes interessadas. | Refere-se à amplitude do que um painel está rastreando, incluindo períodos de tempo e quantidade de métricas. |
+| **Responsabilidade** | Determinado pela liderança da equipe, incluindo patrocinadores e gerentes de projeto. | Determinado pelas equipes de BI considerando os requisitos do projeto e as necessidades do usuário. |
+| **Cronograma** | Delineado logo no início para definir os aspectos globais da iniciativa. | Delineado como parte do processo de criação do painel, baseado em necessidades específicas de relatórios. |
+| **Foco de Atuação** | Envolve alinhar metas gerais e garantir que o projeto inteiro faça sentido para a organização. | Envolve a escolha de KPIs, tempo de representação e acessibilidade dos dados para os tomadores de decisão. |
+
+Compreender essa distinção ajuda o profissional de BI a gerenciar expectativas, focando no que a ferramenta deve entregar tecnicamente sem perder de vista os objetivos macro do negócio.

@@ -12,7 +12,8 @@ Aplicar conhecimentos de BI e Modelagem de dados para criar dashboards dinâmico
 ## 🗺️ Navegação por Módulos
 
 - 📂 [**Base: Fundamentos de Dashboards**](base/README.md)
-  - 🧩 [Estudo de Caso: Mockup Clínica Médica](base/mockup-clinica/README.md)
+  - 🧩 [Estudo de Caso 1: Clínica Médica](base/mockup-clinica/README.md)
+  - 🧩 [Estudo de Caso 2: Allegis Group (Coorte)](base/allegis-case-study/README.md)
 - 📂 [**Ferramentas: Tecnologias e Softwares**](ferramentas/README.md)
   - 📊 [Guia Técnico: Tableau Public](ferramentas/tableau_guide.md)
 - 📖 [**Glossário do Módulo 1**](GLOSSARIO.md)
