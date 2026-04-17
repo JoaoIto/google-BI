@@ -9,6 +9,15 @@ Aplicar conhecimentos de BI e Modelagem de dados para criar dashboards dinâmico
 
 ---
 
+## 🗺️ Navegação por Módulos
+
+- 📂 [**Base: Fundamentos de Dashboards**](base/README.md)
+  - 🧩 [Estudo de Caso: Mockup Clínica Médica](base/mockup-clinica/README.md)
+- 📂 [**Ferramentas: Tecnologias e Softwares**](ferramentas/README.md)
+  - 📊 [Guia Técnico: Tableau Public](ferramentas/tableau_guide.md)
+
+---
+
 ## Estrutura do Módulo
 
 ### 1. Visualizações de Business Intelligence (BI)
