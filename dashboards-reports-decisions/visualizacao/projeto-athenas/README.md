@@ -60,5 +60,36 @@ Para visualizar a densidade de propriedades, utilizamos as propriedades geoespac
 
 ---
 
+## Parte 4: Dashboard Interativo (Painel de Controle)
+
+Para permitir que os tomadores de decisão cruzem informações de preço e localização, consolidamos as planilhas em um único Dashboard interativo.
+
+### Passo a Passo:
+1. **Novo Painel**: Clicamos no ícone *New Dashboard* no Tableau.
+2. **Layout**: Arrastamos a planilha `Preço Médio por Bairro` para a esquerda e o `Rental Map of Athens` para a direita.
+3. **Legendas**: O Tableau gera automaticamente uma legenda para o tamanho dos pontos do mapa, essencial para interpretar a concentração de dados.
+4. **Interatividade ("Use as Filter")**: 
+   - Selecionamos o objeto do Mapa no dashboard.
+   - Clicamos no ícone de funil (**Use as Filter**) na barra lateral do objeto.
+   - **Resultado**: Agora, ao selecionar uma área ou pontos específicos no mapa, o gráfico de barras é filtrado automaticamente para mostrar apenas os preços médios daqueles locais específicos.
+
+![Dashboard Final: Mapa e Gráfico de Barras Lado a Lado](assets/athens_dashboard_final.png)
+
+---
+
+## Insights e Respostas Técnicas
+
+### 1. Como a legenda melhora a interpretação?
+A legenda explica como os dados estão **codificados**. Sem ela, o usuário não saberia se o tamanho de um ponto no mapa representa o preço, a popularidade ou a contagem de IDs (neste caso, a concentração de anúncios).
+
+### 2. Qual o benefício do filtro interativo?
+- **Evita a desordem (Clutter)**: Permite focar em subconjuntos de dados sem a necessidade de múltiplos gráficos estáticos.
+- **Destaque de Elementos**: Ajuda a identificar rapidamente se bairros com alta concentração de aluguéis também possuem os preços mais elevados.
+
+### 3. Sugestão de Expansão:
+Para comparar o preço médio por noite versus o número de aluguéis por bairro em uma única visão, a visualização mais eficaz seria um **Gráfico de Barras Agrupadas**. Isso permitiria visualizar as duas métricas lado a lado para cada bairro, facilitando a correlação.
+
+---
+
 ## Conclusão
-Ao final desta atividade, temos dois visuais prontos: um focado em **atratividade financeira** (preços) e outro em **oportunidade de mercado** (densidade). Estes visuais serão a base para a criação de um dashboard unificado futuramente.
+O dashboard final transforma dados brutos em uma ferramenta de exploração. A conexão entre o mapa e o gráfico de barras permite que a empresa identifique não apenas "onde" investir, mas "quanto" esperar de retorno médio em micro-regiões específicas de Atenas.

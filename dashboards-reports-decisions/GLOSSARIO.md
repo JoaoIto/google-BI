@@ -1,15 +1,29 @@
-# Glossário: Módulo 1 - Dashboards e Reports
+# Glossário: Curso 3 - Dashboards e Reports
 
-Este glossário consolida os termos fundamentais do primeiro módulo do curso "Decisions, Decisions: Dashboards and Reports", além de termos essenciais dos módulos anteriores da trilha de Business Intelligence.
+Este glossário consolida os termos fundamentais dos módulos do curso "Decisions, Decisions: Dashboards and Reports", além de termos essenciais dos módulos anteriores da trilha de Business Intelligence.
 
 ---
 
-## Termos do Módulo 1 (Curso 3)
+## Módulo 2: Design e Visualização de Dados
+
+- **Dimensão (visualização)**: Um tipo de dado qualitativo que pode ser usado para categorizar, segmentar e revelar os detalhes nos dados.
+- **Codificação (Encoding)**: O processo de tradução de dimensões e medidas em representações visuais (como cor, tamanho ou posição).
+- **Medida**: Um tipo de dado quantitativo que pode ser discreto ou contínuo, usado para cálculos e agregações.
+- **Permissão em nível de objeto**: Uma configuração de privacidade que controla a disponibilidade de um item específico (como um painel ou relatório).
+- **Pré-agregação**: O processo de realizar cálculos nos dados enquanto eles ainda estão no banco de dados para melhorar a performance.
+- **Velocidade de processamento**: A rapidez com que um programa ou sistema pode atualizar e carregar uma quantidade específica de dados.
+- **Disponibilidade pública**: Configuração de privacidade que permite que qualquer pessoa acesse um painel sem necessidade de login.
+- **Permissão em nível de linha (RLS)**: Configuração de privacidade que controla o acesso a linhas específicas de uma tabela com base no perfil do usuário.
+- **Compensação (Trade-off)**: O equilíbrio de vários fatores, priorizando um elemento (ex: velocidade) e sacrificando outro (ex: detalhamento), para chegar ao melhor resultado possível.
+
+---
+
+## Termos do Módulo 1: Fundamentos de Dashboards
 
 - **Problema de Público**: Um problema de painel causado por não considerar adequadamente as necessidades ou o nível de conhecimento do usuário final.
-- **Problema de Dados**: Um problema no painel causado por inconsistências, erros ou inadequação nos dados que estão sendo utilizados.
-- **Protótipo de Baixa Fidelidade (Mockup)**: Um rascunho simples de uma visualização que é usado para planejar um painel e avaliar seu progresso antes de investir tempo em ferramentas digitais.
-- **Problema de Ferramenta**: Um problema de painel que envolve limitações ou falhas no hardware ou no software de BI utilizado.
+- **Problema de Dados**: Um problema no painel causado por inconsistências, erros ou inadequação nos dados.
+- **Protótipo de Baixa Fidelidade (Mockup)**: Um rascunho simples de uma visualização para planejar um painel e avaliar seu progresso.
+- **Problema de Ferramenta**: Um problema de painel que envolve limitações ou falhas no hardware ou no software de BI.
 
 ---
 
