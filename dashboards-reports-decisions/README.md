@@ -13,9 +13,8 @@ Arquivo principal que explica as bases teóricas de BI e diferencia os estilos d
 - **🛣️ [Projeto MnDOT: Monitoramento de Tráfego](./painel/projeto/monitoramento-trafego/README.md)**: 
     - *Estilo Operacional*. 
     - Monitoramento de volume sazonal, impacto climático e picos em feriados. Inclui iteração de design v2.0.
-- **🏠 [Projeto Airbnb: Estudo de Caso Atenas](./painel/projeto/athenas-airbnb/README.md)**: 
-    - *Estilo Tático*. 
     - Análise de preço médio, mapas de densidade e filtros de ação interativos.
+- **🏆 [Avaliação Final do Módulo 3](./painel/desafio-final-modulo-3.md)**: Respostas e fundamentos da avaliação de encerramento.
 
 ### 2. [📖 Glossário Técnico de BI](./GLOSSARIO.md)
 Definições de termos críticos como *Pain Points*, *Drill-down*, *Action Filters* e *Cross-filtering*.
