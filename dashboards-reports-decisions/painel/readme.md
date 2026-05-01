@@ -1,44 +1,43 @@
-# 📊 Guia de Dashboards e Relatórios de BI
+# 📊 Centro de Projetos: Dashboards e Visualização
 
-Este diretório contém a documentação teórica e prática sobre o desenvolvimento de dashboards, explorando diferentes estilos e necessidades de negócio.
-
----
-
-## 🔬 Fundamentos Teóricos e Técnicos
-
-O desenvolvimento de um dashboard eficaz vai além da simples disposição de gráficos. Ele exige a aplicação de **Design Thinking** e uma compreensão clara da necessidade do usuário final.
-
-### 1. Estilo Operacional / Monitoramento (Projeto MnDOT)
-*   **Definição**: Painéis projetados para rastrear atividades em andamento e processos dinâmicos.
-*   **Foco Técnico**:
-    *   **Tracking Temporais**: Uso extensivo de escalas de tempo (Ano -> Hora) para capturar variações imediatas.
-    *   **Contextualização de Filtros**: Implementação de filtros de "Data Relativa" para garantir que o monitoramento seja sempre sobre os dados mais recentes.
-    *   **Alertas Visuais**: Uso de cores e formas para destacar "pontos de dor" ou anomalias que exigem ação imediata.
-*   **Aplicação**: Monitoramento de tráfego, status de servidores, fluxos de produção.
-
-### 2. Estilo Tático / Painel de Controle (Projeto Athens Airbnb)
-*   **Definição**: Painéis projetados para análise exploratória e controle de métricas de desempenho em micro-mercados.
-*   **Foco Técnico**:
-    *   **Ações de Filtro (Action Filters)**: Transformação de gráficos em ferramentas de filtragem ativa (clicar em um elemento para filtrar o dashboard inteiro).
-    *   **Cross-Filtering**: Conexão entre dimensões geográficas (mapas) e financeiras (preços médios).
-    *   **Codificação de Tamanho e Cor**: Uso de legendas precisas para interpretar volume de propriedades (IDS) e densidade.
-*   **Aplicação**: Análise de investimento imobiliário, dashboards de vendas regionais, controle de portfólio.
+Este repositório centraliza o conhecimento prático e teórico adquirido no desenvolvimento de soluções de Business Intelligence. A estrutura abaixo organiza os projetos por estilo e objetivo.
 
 ---
 
-## 🏗️ Estrutura do Diretório
+## 📂 Projetos Consolidados
 
-A organização segue um padrão profissional de BI, separando a lógica de dados dos ativos visuais:
+Cada projeto abaixo possui sua própria estrutura completa de **Dados**, **Ativos Visuais** e **Documentação Técnica** em um único arquivo README.
 
-*   📂 [**Projetos Práticos**](projeto/)
-    *   🛣️ [**Monitoramento de Tráfego (MnDOT)**](projeto/monitoramento-trafego/README.md): Dashboard Operacional.
-    *   🏠 [**Estudo de Caso: Airbnb Atenas**](projeto/athenas-airbnb/README.md): Dashboard Tático.
-*   📖 [**Boas Práticas de Design**](visualizacao/design_principles.md)
+### 1. [🛣️ Monitoramento de Tráfego (MnDOT)](projeto/monitoramento-trafego/README.md)
+- **Estilo**: Operacional / Monitoramento.
+- **Destaques**: 4 tipos de gráficos, cálculos de feriados, filtros globais e iteração baseada em feedback.
+- **Ferramentas**: Tableau Public, Calculated Fields, Action Filters.
+
+### 2. [🏠 Estudo de Caso: Airbnb Atenas](projeto/athenas-airbnb/README.md)
+- **Estilo**: Tático / Painel de Controle.
+- **Destaques**: Análise geoespacial, integração de mapa com gráfico de barras e tratamento de outliers.
+- **Ferramentas**: Map Layers, Cross-filtering, KPI Scorecards.
 
 ---
 
-## 🛠️ Princípios Aplicados
-1.  **Hierarquia Visual**: O elemento mais importante (KPI primário) sempre ocupa o topo ou o maior quadrante.
-2.  **Espaço Negativo**: Evitamos o "vômito de dados" (*data clutter*), garantindo que cada gráfico tenha "ar" para ser lido.
-3.  **Acessibilidade**: Implementação de legendas automáticas e paletas de cores amigáveis para daltonismo.
-4.  **Performance**: Pré-agregação de dados via SQL ou cálculos no Tableau para garantir fluidez na interação.
+## 🔬 Diferenciação Técnica de Painéis
+
+| Característica | Painel Operacional (MnDOT) | Painel Tático (Atenas) |
+| :--- | :--- | :--- |
+| **Público** | Equipes de campo e supervisores. | Investidores e Gerentes. |
+| **Escala de Tempo** | Curto prazo (Horas/Dias). | Médio/Longo prazo (Histórico). |
+| **Interação** | Monitoramento constante (Tracking). | Exploração e Drill-down. |
+| **Objetivo** | Ação corretiva imediata. | Suporte à decisão estratégica. |
+
+---
+
+## 🛠️ Boas Práticas Gerais
+- **Hierarquia Visual**: O insight principal sempre ocupa a área de maior destaque (Top-Left).
+- **Consistência de Cores**: Cores idênticas para dimensões idênticas em gráficos diferentes.
+- **Acessibilidade**: Uso de legendas (Captions) e tooltips informativos.
+- **Simplicidade**: Filtragem de dados para manter o foco no essencial.
+
+---
+## 📖 [Glossário Técnico do Curso](../GLOSSARIO.md)
+
+*Status: Estrutura de Documentação Consolidada e Organizada.*

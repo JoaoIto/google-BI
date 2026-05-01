@@ -1,64 +1,42 @@
-# Curso 3: Decisions, Decisions: Dashboards and Reports
+# 🎓 Google BI Professional Certificate: Módulo de Dashboards e Relatórios
 
-Bem-vindo ao terceiro curso do Certificado de Business Intelligence do Google. Neste módulo, mergulhamos no mundo das visualizações dinâmicas, relatórios interativos e na arte de comunicar insights orientados a dados para stakeholders.
-
----
-
-## Objetivo do Curso
-Aplicar conhecimentos de BI e Modelagem de dados para criar dashboards dinâmicos que rastreiam os principais indicadores de desempenho (KPIs) para atender às necessidades específicas das partes interessadas.
+Este repositório documenta a jornada técnica no Módulo 3 do curso de Fundamentos de Business Intelligence do Google. Aqui exploramos a criação de visualizações interativas, design centrado no usuário e a iteração baseada em feedback de stakeholders.
 
 ---
 
-## 🗺️ Navegação por Módulos
+## 📂 Sumário de Projetos e Módulos
 
-- 📂 [**Base: Fundamentos de Dashboards**](base/README.md)
-  - 🧩 [Estudo de Caso 1: Clínica Médica](base/mockup-clinica/README.md)
-  - 🧩 [Estudo de Caso 2: Allegis Group (Coorte)](base/allegis-case-study/README.md)
-- 📂 [**Dashboards e Painéis: Teoria e Prática**](painel/README.md)
-  - 🧩 [Projeto: Monitoramento MnDOT](painel/projeto/monitoramento-trafego/README.md)
-  - 🧩 [Projeto: Airbnb Atenas](painel/projeto/athenas-airbnb/README.md)
-- 📖 [**Glossário do Curso**](GLOSSARIO.md)
+Navegue pelos links abaixo para acessar as documentações detalhadas de cada fase do aprendizado:
 
----
+### 1. [📊 Centro de Dashboards e Painéis](./painel/README.md)
+Arquivo principal que explica as bases teóricas de BI e diferencia os estilos de painéis criados.
+- **🛣️ [Projeto MnDOT: Monitoramento de Tráfego](./painel/projeto/monitoramento-trafego/README.md)**: 
+    - *Estilo Operacional*. 
+    - Monitoramento de volume sazonal, impacto climático e picos em feriados. Inclui iteração de design v2.0.
+- **🏠 [Projeto Airbnb: Estudo de Caso Atenas](./painel/projeto/athenas-airbnb/README.md)**: 
+    - *Estilo Tático*. 
+    - Análise de preço médio, mapas de densidade e filtros de ação interativos.
 
-## Estrutura do Módulo
+### 2. [📖 Glossário Técnico de BI](./GLOSSARIO.md)
+Definições de termos críticos como *Pain Points*, *Drill-down*, *Action Filters* e *Cross-filtering*.
 
-### 1. Visualizações de Business Intelligence (BI)
-* **Fundamentos de Dashboards:** Diferença entre painéis de BI e outros painéis de análise de dados.
-* **Visualizações Dinâmicas:** Por que são essenciais para responder perguntas de negócio em tempo real.
-* **Interatividade:** Como capacitar stakeholders através da exploração autônoma dos dados.
-
-### 2. Visualização de Resultados 🎨
-* **Trade-offs de Design:** Considerações estéticas vs. funcionais ao criar gráficos.
-* **Organização Eficaz:** Como organizar elementos no painel para facilitar a leitura e o fluxo de informações.
-* **Design Centrado no Usuário:** Criação de visualizações que falam a língua do negócio.
-
-### 3. Automatizar e Monitorar 🔄
-* **Monitoramento de Longo Prazo:** Dashboards que evoluem com o tempo.
-* **Simulação de Papel Profissional:** Reunião com clientes e levantamento de informações para projetos de BI.
-* **Iteração:** Processo de criação, organização e refinamento de visualizações.
-
-### 4. Apresentar Insights de BI 🎤
-* **Storytelling com Dados:** Estratégias para compartilhar dashboards e apresentar resultados.
-* **Carreira em BI:** Refinamento de portfólio, atualização de currículo e técnicas de entrevista.
-
-### 5. Projeto de Fim de Curso: Capstone 🏆
-* **Protótipo de Baixa Fidelidade:** Criação de mockups baseados em tabelas de metas anteriores.
-* **Design Final:** Entrega de um dashboard completo e funcional (Rascunho de MVP).
-* **Entrega para Stakeholder:** Apresentação formal do resultado.
-
-### 6. Certificado em Prática 🚀
-* **Revisão Geral:** Consolidação dos conhecimentos de toda a trilha.
-* **Recursos de Carreira:** Estabelecimento como profissional de BI no mercado.
+### 3. [🎨 Princípios de Design e Acessibilidade](./visualizacao/design_principles.md)
+Guia sobre uso de espaço negativo, hierarquia visual e padrões de cores para daltonismo.
 
 ---
 
-## 🛠 Ferramentas Exploradas
-- **Tableau:** Criação de dashboards profissionais e interativos.
-- **SQL:** Pré-agregação de dados para otimização de performance.
-- **Design de Mockups:** Planejamento de baixa fidelidade antes da implementação.
+## 🛠️ Tecnologias Utilizadas
+- **Tableau Public**: Desenvolvimento de dashboards e visualizações geográficas.
+- **Planilhas/CSV**: Manipulação de dados estruturados do MnDOT e Airbnb.
+- **SQL (Conceitual)**: Lógica de agregação e filtros para grandes volumes de dados.
 
 ---
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow" alt="Status">
-</div>
+
+## 🚀 Como Explorar este Repositório
+Cada pasta de projeto (`monitoramento-trafego` e `athenas-airbnb`) segue a estrutura profissional de BI:
+1.  **`data/`**: Contém os arquivos brutos utilizados.
+2.  **`assets/`**: Capturas de tela dos gráficos e mockups de planejamento.
+3.  **`README.md`**: Documentação técnica exaustiva com o passo a passo da criação e as respostas fundamentadas aos desafios do curso.
+
+---
+*Organizado por: Antigravity AI para João Ito*
