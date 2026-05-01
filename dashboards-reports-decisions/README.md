@@ -18,7 +18,8 @@ Aplicar conhecimentos de BI e Modelagem de dados para criar dashboards dinâmico
   - 🎨 [Princípios de Design e Acessibilidade](visualizacao/design_principles.md)
 - 📂 [**Ferramentas: Tecnologias e Softwares**](ferramentas/README.md)
   - 📊 [Guia Técnico: Tableau Public](ferramentas/tableau_guide.md)
-- 📖 [**Glossário do Módulo 1**](GLOSSARIO.md)
+- 📂 [**Monitoramento: Projeto MnDOT**](painel/projeto/monitoramento-trafego/README.md)
+- 📖 [**Glossário do Curso**](GLOSSARIO.md)
 
 ---
 

@@ -4,6 +4,16 @@ Este glossário consolida os termos fundamentais dos módulos do curso "Decision
 
 ---
 
+## Módulo 3: Construção e Monitoramento
+
+- **Pontos de Dor (Pain Points)**: Obstáculos comuns que dificultam o uso de painéis a longo prazo (ex: casos de uso mal definidos, falta de comparações).
+- **Caso de Uso (Use Case)**: A forma específica como uma ferramenta ou dashboard de BI é utilizada pela equipe para resolver um problema.
+- **Rastreamento (Tracking)**: A prática de incluir perspectivas temporais no dashboard para mostrar a evolução dos dados.
+- **Comparação**: Técnica de design que coloca KPIs ou métricas lado a lado para facilitar a avaliação de desempenho (bom vs. ruim).
+- **Visualização Executiva**: Um tipo de visão resumida de alto nível, voltada para tomadores de decisão, mas que pode ser um "ponto de dor" se não permitir detalhamento.
+
+---
+
 ## Módulo 2: Design e Visualização de Dados
 
 - **Dimensão (visualização)**: Um tipo de dado qualitativo que pode ser usado para categorizar, segmentar e revelar os detalhes nos dados.
