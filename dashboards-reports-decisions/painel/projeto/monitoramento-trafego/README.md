@@ -66,10 +66,33 @@ Após a revisão da Camila (Stakeholder), implementamos melhorias iterativas par
 
 ---
 
+## 🏁 Avaliação Final do Protótipo (Baseada no Exemplar Concluído)
+
+Após comparar nossa iteração com o exemplar final do curso, validamos nossas decisões de design e identificamos o valor estratégico de cada elemento:
+
+### Análise de Posicionamento:
+*   **Bloco de Filtro**: Assim como sugerido, posicionamos o menu suspenso no **topo do dashboard**. Isso reforça sua importância global, permitindo que usuários não técnicos ajustem o escopo temporal antes de analisar os dados.
+*   **Botão de Download**: Optamos pelo posicionamento no **topo (próximo ao título)**. Esta decisão atende à necessidade de stakeholders que precisam gerar relatórios rápidos para reuniões, permitindo acesso imediato à exportação sem a necessidade de rolar o painel.
+*   **Eficiência de Escopo**: O uso do filtro de data (2017+) provou ser a solução mais rápida e eficaz para atender à mudança de escopo solicitada, sem exigir alterações estruturais complexas no banco de dados.
+
+### Principais Conclusões do Exercício:
+Este projeto de dramatização demonstrou o ciclo completo de um profissional de BI:
+1.  **Entendimento**: Traduzir e-mails e solicitações em requisitos técnicos.
+2.  **Construção**: Criar visualizações que equilibram estética e funcionalidade.
+3.  **Comunicação**: Justificar decisões de design e responder ao feedback.
+4.  **Iteração**: Refinar o produto final para atender às necessidades em constante evolução do negócio.
+
+---
+## 📦 Entrega Final
+O painel consolidado e os relatórios de apoio estão organizados em:
+- 🖼️ [Dashboard Final Iterado](assets/iterated_dashboard.png)
+- 📄 [Relatório Técnico MnDOT (Simulado)](assets/Minnesota_Interstate_Traffic_Volume.md)
+
+---
 ## Documentação Relacionada
 - [Respostas: Criação de Gráficos](desafio-graficos.md)
 - [Respostas: Organização do Painel](desafio-dashboard.md)
 - [Respostas: Iteração do Painel](desafio-iteracao.md)
 
 ---
-*Status: Projeto MnDOT Concluído e Refinado.*
+*Status: Ciclo de Vida do Projeto MnDOT Finalizado.*
