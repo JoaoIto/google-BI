@@ -69,6 +69,7 @@ Após a revisão da Camila (Stakeholder), implementamos melhorias iterativas par
 ## Documentação Relacionada
 - [Respostas: Criação de Gráficos](desafio-graficos.md)
 - [Respostas: Organização do Painel](desafio-dashboard.md)
+- [Respostas: Iteração do Painel](desafio-iteracao.md)
 
 ---
 *Status: Projeto MnDOT Concluído e Refinado.*
