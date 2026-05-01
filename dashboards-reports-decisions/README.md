@@ -16,7 +16,17 @@ Arquivo principal que explica as bases teóricas de BI e diferencia os estilos d
     - Análise de preço médio, mapas de densidade e filtros de ação interativos.
 - **🏆 [Avaliação Final do Módulo 3](./painel/desafio-final-modulo-3.md)**: Respostas e fundamentos da avaliação de encerramento.
 
-### 2. [📖 Glossário Técnico de BI](./GLOSSARIO.md)
+### 2. [📢 Comunicação e Apresentação](./apresentacao/README.md)
+Técnicas de storytelling, adaptação ao público e demonstração de ferramentas.
+- **🧪 [Estudo de Caso: Ipsos](./apresentacao/estudo-de-caso-ipsos.md)**: Abordagem interativa na entrega de dashboards.
+- **🏆 [Avaliação Final do Módulo 4](./apresentacao/desafio-final-modulo-4.md)**: Respostas sobre comunicação e carreira.
+
+### 3. [💼 Carreira em BI](./carreira/README.md)
+Guia de busca de vagas, networking e construção de portfólio.
+- **🍱 [Habilidades Transferíveis](./carreira/habilidades-transferiveis.md)**: A importância das "Soft Skills".
+- **📄 [Portfólio e Currículo](./carreira/portfolio-e-curriculo.md)**: Como se destacar no mercado.
+
+### 4. [📖 Glossário Técnico de BI](./GLOSSARIO.md)
 Definições de termos críticos como *Pain Points*, *Drill-down*, *Action Filters* e *Cross-filtering*.
 
 ### 3. [🎨 Princípios de Design e Acessibilidade](./visualizacao/design_principles.md)

@@ -34,10 +34,13 @@ Este glossário consolida os termos fundamentais dos módulos do curso "Decision
 - **Problema de Dados**: Um problema no painel causado por inconsistências, erros ou inadequação nos dados.
 - **Protótipo de Baixa Fidelidade (Mockup)**: Um rascunho simples de uma visualização para planejar um painel e avaliar seu progresso.
 - **Problema de Ferramenta**: Um problema de painel que envolve limitações ou falhas no hardware ou no software de BI.
+- **Apresentação de Business Intelligence (BI)**: Uma comunicação formal com as partes interessadas sobre suas necessidades ou o status do projeto.
+- **Habilidade Transferível**: Uma capacidade ou proficiência (como multitarefa ou foco no cliente) que pode ser aplicada de um trabalho para outro, mesmo em setores diferentes.
+- **Portfólio**: Uma coleção organizada de materiais, projetos e documentações que demonstram as realizações e o processo de pensamento de um profissional para potenciais empregadores.
 
 ---
 
-## Termos e Definições de Módulos Anteriores
+## 📑 Termos e Definições de Módulos Anteriores
 
 ### A
 - **Precisão**: Elemento de teste de qualidade usado para confirmar que os dados estão em conformidade com a entidade real medida ou descrita.
