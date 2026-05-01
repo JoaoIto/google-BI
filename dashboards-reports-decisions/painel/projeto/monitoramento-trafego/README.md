@@ -1,6 +1,6 @@
 # Documentação do Projeto: Monitoramento de Tráfego (MnDOT)
 
-Este documento detalha o processo de planejamento e execução dos gráficos para o monitoramento de padrões de tráfego em Minnesota.
+Este documento detalha o processo de planejamento, execução e iteração dos gráficos para o monitoramento de padrões de tráfego em Minnesota.
 
 ---
 
@@ -22,32 +22,47 @@ Este documento detalha o processo de planejamento e execução dos gráficos par
 ![Gráfico de Feriados](assets/holidays.png)
 
 ### 4. Volume por Hora e Dia (Mapa de Calor)
-- **Objetivo**: Visualizar concentrações de tráfego em escalas detalhadas (semanal/diária).
-- **Tipo**: Heat Map (Mapa de Calor).
 ![Mapa de Calor Horário](assets/hourly_heatmap.png)
 
 ---
 
-## 🏗️ Parte 3: Montagem do Dashboard
+## 🏗️ Parte 3: Montagem do Dashboard (Rascunho Inicial)
 
 ![Painel Final MnDOT](assets/final_dashboard.png)
 
 ---
 
-## 📝 Avaliação e Auto-Reflexão (Baseada no Exemplo Exemplar)
+## 🔄 Parte 4: Iteração e Refinamento (Feedback do Stakeholder)
 
-Ao comparar nossa implementação com o modelo ideal do curso, identificamos pontos fortes e oportunidades de refinamento:
+Após a revisão da Camila (Stakeholder), implementamos melhorias iterativas para aumentar a usabilidade e o foco nos dados relevantes.
 
-### O que fizemos bem:
-*   **Hierarquia de Prioridades**: Assim como no exemplo, colocamos o gráfico de sazonalidade (linhas) no topo por ser a métrica de maior interesse.
-*   **Variedade de Estilos**: Utilizamos quatro estilos distintos (Linhas, Barras, Bolhas e Mapa de Calor) para responder a diferentes perguntas de negócio.
-*   **Cálculos Personalizados**: A implementação do `IS_HOLIDAY` permitiu uma análise de feriados muito mais limpa.
+### Feedback Recebido:
+- **Usabilidade**: Facilitar o uso para membros da equipe não familiarizados com o Tableau.
+- **Acesso a Dados**: Incluir opção de download direto.
+- **Foco Temporal**: Filtrar apenas dados de 2017 em diante.
 
-### Onde podemos melhorar:
-*   **Sincronização de Cores**: O exemplo sugere que as cores devem ser consistentes entre os gráficos (ex: Laranja sempre representando o ano de 2017). Devemos garantir que essa codificação de cores seja uniforme em todas as planilhas.
-*   **Simplicidade e Limpeza**: Devemos filtrar os dados para focar nos últimos 3 anos para evitar "poluição visual" e lentidão no dashboard.
-*   **Eliminação de Duplicatas**: Precisamos garantir que apenas uma legenda de cores global seja exibida, removendo as legendas automáticas que o Tableau gera para cada gráfico individual.
-*   **Posicionamento do Mapa de Calor**: Como o Mapa de Calor contém muitos dados, o exemplo sugere que ele seja um dos maiores elementos no dashboard para facilitar a leitura.
+### Implementações Realizadas:
+1.  **Filtros em Menu Suspenso**: 
+    - Transformamos os filtros de "Data e Hora" em menus suspensos (*Drop-down*). 
+    - Aplicamos a configuração **"All Using Related Data Sources"** para garantir que uma seleção filtre todos os gráficos simultaneamente.
+2.  **Objeto de Download**:
+    - Adicionamos um botão de **Download** (Objeto de Painel) que permite exportar a visualização como PDF ou Imagem diretamente da interface.
+3.  **Filtro de Escopo (2017+)**:
+    - Configuramos um filtro global de data para iniciar em 01/01/2017, mantendo a flexibilidade de escala (Mês, Dia, Hora).
+4.  **Dicas de Ferramenta (Tooltips) Avançadas**:
+    - Refinamos os tooltips para incluir descrições textuais que explicam o insight sem a necessidade de treinamento prévio.
+
+### Painel Atualizado (Versão 2.0)
+![Painel Iterado MnDOT](assets/iterated_dashboard.png)
+
+---
+
+## 📝 Auto-Reflexão e Critérios Atendidos
+
+- [x] **Três ou mais gráficos**: Linhas, Barras, Bolhas e Heat Map.
+*   [x] **Hierarquia Visual**: Tendência anual no topo, detalhes na base.
+*   [x] **Iteração por Feedback**: Atendimento total às solicitações da Camila.
+*   [x] **Acessibilidade**: Legendas, tooltips e menus simplificados.
 
 ---
 
@@ -56,4 +71,4 @@ Ao comparar nossa implementação com o modelo ideal do curso, identificamos pon
 - [Respostas: Organização do Painel](desafio-dashboard.md)
 
 ---
-*Status: Projeto MnDOT Refinado após Auto-Avaliação.*
+*Status: Projeto MnDOT Concluído e Refinado.*
