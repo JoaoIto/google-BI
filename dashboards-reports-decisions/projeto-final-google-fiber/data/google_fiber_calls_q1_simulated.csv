@@ -1,0 +1,1001 @@
+Call_ID,Call_Date,Customer_ID,Market,Problem_Type,Weekday,Is_Repeat_Call
+149,2026-01-01,14085,Austin,Equipment Setup,Thursday,0
+168,2026-01-01,10013,Kansas City,Internet Speed,Thursday,0
+172,2026-01-01,10315,Provo,Billing Inquiry,Thursday,0
+201,2026-01-01,10131,Austin,Billing Inquiry,Thursday,0
+753,2026-01-01,12487,Kansas City,Technical Issue,Thursday,0
+855,2026-01-01,13931,Provo,Equipment Setup,Thursday,0
+971,2026-01-01,13164,Provo,Internet Speed,Thursday,0
+25,2026-01-02,13201,Kansas City,Technical Issue,Friday,0
+96,2026-01-02,11748,Provo,Technical Issue,Friday,0
+118,2026-01-02,10267,Austin,Technical Issue,Friday,0
+225,2026-01-02,14040,Provo,Equipment Setup,Friday,0
+241,2026-01-02,11709,Provo,Internet Speed,Friday,0
+316,2026-01-02,10753,Kansas City,Technical Issue,Friday,0
+397,2026-01-02,11446,Provo,Account Management,Friday,0
+399,2026-01-02,10535,Austin,Technical Issue,Friday,0
+483,2026-01-02,10860,Kansas City,Account Management,Friday,0
+537,2026-01-02,12058,Kansas City,Account Management,Friday,0
+622,2026-01-02,12093,Provo,Internet Speed,Friday,0
+975,2026-01-02,10779,Kansas City,Account Management,Friday,0
+218,2026-01-03,14133,Kansas City,Internet Speed,Saturday,0
+283,2026-01-03,14712,Kansas City,Account Management,Saturday,0
+321,2026-01-03,14035,Austin,Account Management,Saturday,0
+345,2026-01-03,12951,Austin,Account Management,Saturday,0
+516,2026-01-03,14232,Kansas City,Billing Inquiry,Saturday,0
+606,2026-01-03,11619,Provo,Equipment Setup,Saturday,0
+613,2026-01-03,11671,Austin,Technical Issue,Saturday,0
+677,2026-01-03,10088,Provo,Technical Issue,Saturday,0
+793,2026-01-03,11326,Kansas City,Technical Issue,Saturday,0
+888,2026-01-03,10274,Provo,Equipment Setup,Saturday,0
+891,2026-01-03,10297,Provo,Technical Issue,Saturday,0
+955,2026-01-03,12308,Provo,Internet Speed,Saturday,0
+979,2026-01-03,13163,Kansas City,Technical Issue,Saturday,0
+48,2026-01-04,11497,Austin,Internet Speed,Sunday,0
+73,2026-01-04,14155,Kansas City,Account Management,Sunday,0
+100,2026-01-04,11935,Provo,Technical Issue,Sunday,0
+514,2026-01-04,13532,Kansas City,Account Management,Sunday,0
+656,2026-01-04,13446,Austin,Account Management,Sunday,0
+686,2026-01-04,12188,Austin,Billing Inquiry,Sunday,0
+742,2026-01-04,12793,Austin,Billing Inquiry,Sunday,0
+851,2026-01-04,10778,Provo,Internet Speed,Sunday,0
+859,2026-01-04,13787,Kansas City,Billing Inquiry,Sunday,0
+882,2026-01-04,12265,Provo,Equipment Setup,Sunday,0
+940,2026-01-04,12979,Provo,Billing Inquiry,Sunday,0
+130,2026-01-05,12240,Austin,Equipment Setup,Monday,0
+181,2026-01-05,12639,Provo,Equipment Setup,Monday,0
+300,2026-01-05,13632,Austin,Internet Speed,Monday,0
+303,2026-01-05,10576,Provo,Internet Speed,Monday,0
+307,2026-01-05,11482,Austin,Billing Inquiry,Monday,0
+313,2026-01-05,12048,Provo,Technical Issue,Monday,0
+322,2026-01-05,11329,Kansas City,Account Management,Monday,0
+342,2026-01-05,14025,Austin,Technical Issue,Monday,0
+374,2026-01-05,14409,Provo,Billing Inquiry,Monday,0
+417,2026-01-05,12122,Kansas City,Technical Issue,Monday,0
+464,2026-01-05,14130,Kansas City,Internet Speed,Monday,0
+486,2026-01-05,14361,Kansas City,Account Management,Monday,0
+563,2026-01-05,11803,Provo,Account Management,Monday,0
+564,2026-01-05,11331,Austin,Equipment Setup,Monday,0
+643,2026-01-05,10392,Provo,Equipment Setup,Monday,0
+737,2026-01-05,12400,Provo,Internet Speed,Monday,0
+822,2026-01-05,14445,Austin,Equipment Setup,Monday,0
+42,2026-01-06,12344,Kansas City,Billing Inquiry,Tuesday,0
+112,2026-01-06,12247,Provo,Equipment Setup,Tuesday,0
+206,2026-01-06,13244,Provo,Billing Inquiry,Tuesday,0
+302,2026-01-06,14862,Provo,Equipment Setup,Tuesday,0
+392,2026-01-06,10253,Kansas City,Billing Inquiry,Tuesday,0
+550,2026-01-06,14585,Kansas City,Billing Inquiry,Tuesday,0
+666,2026-01-06,14319,Austin,Technical Issue,Tuesday,0
+787,2026-01-06,10821,Provo,Internet Speed,Tuesday,0
+856,2026-01-06,14500,Provo,Technical Issue,Tuesday,0
+957,2026-01-06,11767,Provo,Billing Inquiry,Tuesday,0
+79,2026-01-07,10261,Austin,Equipment Setup,Wednesday,0
+339,2026-01-07,10431,Kansas City,Equipment Setup,Wednesday,0
+450,2026-01-07,11319,Austin,Equipment Setup,Wednesday,0
+601,2026-01-07,13617,Kansas City,Billing Inquiry,Wednesday,0
+663,2026-01-07,14665,Austin,Internet Speed,Wednesday,0
+814,2026-01-07,11021,Kansas City,Equipment Setup,Wednesday,0
+213,2026-01-08,11445,Austin,Billing Inquiry,Thursday,0
+257,2026-01-08,13055,Austin,Equipment Setup,Thursday,0
+638,2026-01-08,14880,Austin,Equipment Setup,Thursday,0
+861,2026-01-08,14920,Provo,Technical Issue,Thursday,0
+915,2026-01-08,13070,Kansas City,Technical Issue,Thursday,0
+963,2026-01-08,12165,Provo,Internet Speed,Thursday,0
+13,2026-01-09,11044,Austin,Account Management,Friday,0
+137,2026-01-09,13660,Austin,Equipment Setup,Friday,0
+170,2026-01-09,12053,Austin,Equipment Setup,Friday,0
+207,2026-01-09,14905,Austin,Billing Inquiry,Friday,0
+310,2026-01-09,10053,Provo,Billing Inquiry,Friday,0
+317,2026-01-09,10526,Kansas City,Equipment Setup,Friday,0
+539,2026-01-09,10938,Austin,Technical Issue,Friday,0
+696,2026-01-09,11709,Kansas City,Account Management,Friday,1
+763,2026-01-09,12034,Kansas City,Technical Issue,Friday,0
+799,2026-01-09,10799,Austin,Technical Issue,Friday,0
+850,2026-01-09,10689,Provo,Technical Issue,Friday,0
+913,2026-01-09,14069,Austin,Technical Issue,Friday,0
+930,2026-01-09,13824,Austin,Account Management,Friday,0
+992,2026-01-09,11627,Austin,Technical Issue,Friday,0
+308,2026-01-10,11167,Austin,Technical Issue,Saturday,0
+409,2026-01-10,10209,Provo,Technical Issue,Saturday,0
+505,2026-01-10,12781,Austin,Billing Inquiry,Saturday,0
+604,2026-01-10,11237,Austin,Equipment Setup,Saturday,0
+673,2026-01-10,10363,Kansas City,Billing Inquiry,Saturday,0
+965,2026-01-10,12229,Austin,Account Management,Saturday,0
+967,2026-01-10,12241,Austin,Account Management,Saturday,0
+116,2026-01-11,12707,Austin,Billing Inquiry,Sunday,0
+287,2026-01-11,12596,Kansas City,Billing Inquiry,Sunday,0
+428,2026-01-11,12241,Kansas City,Equipment Setup,Sunday,0
+611,2026-01-11,14836,Provo,Internet Speed,Sunday,0
+74,2026-01-12,10971,Kansas City,Equipment Setup,Monday,0
+86,2026-01-12,11349,Provo,Technical Issue,Monday,0
+91,2026-01-12,14629,Kansas City,Equipment Setup,Monday,0
+101,2026-01-12,11602,Kansas City,Technical Issue,Monday,0
+160,2026-01-12,13504,Provo,Internet Speed,Monday,0
+222,2026-01-12,12066,Kansas City,Billing Inquiry,Monday,0
+238,2026-01-12,13583,Provo,Billing Inquiry,Monday,0
+239,2026-01-12,12641,Provo,Billing Inquiry,Monday,0
+246,2026-01-12,13839,Kansas City,Technical Issue,Monday,0
+289,2026-01-12,13824,Kansas City,Equipment Setup,Monday,0
+375,2026-01-12,11204,Austin,Account Management,Monday,0
+463,2026-01-12,11940,Kansas City,Account Management,Monday,0
+630,2026-01-12,14994,Provo,Internet Speed,Monday,0
+631,2026-01-12,11386,Provo,Equipment Setup,Monday,0
+654,2026-01-12,14773,Kansas City,Equipment Setup,Monday,0
+660,2026-01-12,10015,Kansas City,Technical Issue,Monday,0
+704,2026-01-12,12065,Austin,Billing Inquiry,Monday,0
+721,2026-01-12,11144,Kansas City,Billing Inquiry,Monday,0
+725,2026-01-12,12299,Kansas City,Account Management,Monday,0
+744,2026-01-12,13734,Kansas City,Billing Inquiry,Monday,0
+792,2026-01-12,10691,Provo,Billing Inquiry,Monday,0
+798,2026-01-12,13117,Austin,Technical Issue,Monday,0
+924,2026-01-12,12793,Provo,Equipment Setup,Monday,0
+936,2026-01-12,11410,Austin,Equipment Setup,Monday,0
+961,2026-01-12,14195,Provo,Equipment Setup,Monday,0
+976,2026-01-12,10059,Kansas City,Equipment Setup,Monday,0
+995,2026-01-12,14490,Kansas City,Billing Inquiry,Monday,0
+5,2026-01-13,12367,Provo,Equipment Setup,Tuesday,0
+211,2026-01-13,14901,Kansas City,Technical Issue,Tuesday,0
+216,2026-01-13,13782,Kansas City,Equipment Setup,Tuesday,0
+291,2026-01-13,13963,Austin,Equipment Setup,Tuesday,0
+378,2026-01-13,13618,Austin,Account Management,Tuesday,0
+385,2026-01-13,10640,Austin,Account Management,Tuesday,0
+445,2026-01-13,14724,Provo,Billing Inquiry,Tuesday,0
+507,2026-01-13,11831,Kansas City,Account Management,Tuesday,0
+525,2026-01-13,11389,Kansas City,Account Management,Tuesday,0
+584,2026-01-13,13171,Austin,Account Management,Tuesday,0
+627,2026-01-13,13692,Provo,Equipment Setup,Tuesday,0
+690,2026-01-13,10076,Austin,Billing Inquiry,Tuesday,0
+984,2026-01-13,13167,Kansas City,Account Management,Tuesday,0
+121,2026-01-14,14535,Provo,Equipment Setup,Wednesday,0
+184,2026-01-14,12765,Provo,Account Management,Wednesday,0
+254,2026-01-14,11536,Kansas City,Internet Speed,Wednesday,0
+451,2026-01-14,14447,Provo,Equipment Setup,Wednesday,0
+471,2026-01-14,12498,Provo,Technical Issue,Wednesday,0
+617,2026-01-14,12424,Austin,Technical Issue,Wednesday,0
+641,2026-01-14,14487,Austin,Internet Speed,Wednesday,0
+836,2026-01-14,13873,Provo,Billing Inquiry,Wednesday,0
+893,2026-01-14,11628,Austin,Internet Speed,Wednesday,0
+903,2026-01-14,11042,Provo,Billing Inquiry,Wednesday,0
+914,2026-01-14,13781,Kansas City,Internet Speed,Wednesday,0
+61,2026-01-15,13169,Austin,Billing Inquiry,Thursday,0
+62,2026-01-15,13364,Kansas City,Technical Issue,Thursday,0
+161,2026-01-15,14546,Kansas City,Billing Inquiry,Thursday,0
+280,2026-01-15,13112,Kansas City,Technical Issue,Thursday,0
+360,2026-01-15,13704,Kansas City,Billing Inquiry,Thursday,0
+400,2026-01-15,11008,Austin,Internet Speed,Thursday,0
+407,2026-01-15,12389,Austin,Billing Inquiry,Thursday,0
+522,2026-01-15,13534,Kansas City,Technical Issue,Thursday,0
+575,2026-01-15,14874,Provo,Account Management,Thursday,0
+735,2026-01-15,11591,Kansas City,Technical Issue,Thursday,0
+739,2026-01-15,13718,Kansas City,Billing Inquiry,Thursday,0
+752,2026-01-15,14715,Provo,Internet Speed,Thursday,0
+757,2026-01-15,11338,Provo,Account Management,Thursday,0
+797,2026-01-15,11322,Austin,Billing Inquiry,Thursday,0
+842,2026-01-15,10799,Provo,Technical Issue,Thursday,1
+885,2026-01-15,11390,Provo,Technical Issue,Thursday,0
+934,2026-01-15,14580,Austin,Equipment Setup,Thursday,0
+977,2026-01-15,10447,Austin,Billing Inquiry,Thursday,0
+980,2026-01-15,12915,Austin,Account Management,Thursday,0
+271,2026-01-16,13576,Austin,Account Management,Friday,0
+366,2026-01-16,13365,Austin,Technical Issue,Friday,0
+476,2026-01-16,10714,Kansas City,Internet Speed,Friday,0
+477,2026-01-16,12865,Kansas City,Technical Issue,Friday,0
+779,2026-01-16,11828,Kansas City,Equipment Setup,Friday,0
+932,2026-01-16,13234,Austin,Equipment Setup,Friday,0
+970,2026-01-16,13073,Austin,Billing Inquiry,Friday,0
+35,2026-01-17,11742,Austin,Internet Speed,Saturday,0
+267,2026-01-17,12052,Austin,Billing Inquiry,Saturday,0
+357,2026-01-17,13866,Provo,Equipment Setup,Saturday,0
+401,2026-01-17,10801,Provo,Billing Inquiry,Saturday,0
+492,2026-01-17,12320,Kansas City,Technical Issue,Saturday,0
+683,2026-01-17,12069,Provo,Account Management,Saturday,0
+919,2026-01-17,14675,Kansas City,Technical Issue,Saturday,0
+945,2026-01-17,11411,Austin,Equipment Setup,Saturday,0
+311,2026-01-18,10871,Kansas City,Account Management,Sunday,0
+459,2026-01-18,14661,Provo,Equipment Setup,Sunday,0
+481,2026-01-18,11549,Provo,Internet Speed,Sunday,0
+675,2026-01-18,14241,Austin,Account Management,Sunday,0
+808,2026-01-18,13959,Kansas City,Internet Speed,Sunday,0
+905,2026-01-18,10658,Kansas City,Account Management,Sunday,0
+923,2026-01-18,14401,Provo,Technical Issue,Sunday,0
+4,2026-01-19,13212,Austin,Equipment Setup,Monday,0
+77,2026-01-19,11852,Austin,Equipment Setup,Monday,0
+131,2026-01-19,11562,Austin,Account Management,Monday,0
+155,2026-01-19,13644,Kansas City,Billing Inquiry,Monday,0
+176,2026-01-19,12006,Provo,Technical Issue,Monday,0
+204,2026-01-19,10645,Provo,Equipment Setup,Monday,0
+221,2026-01-19,13442,Kansas City,Account Management,Monday,0
+301,2026-01-19,14166,Provo,Internet Speed,Monday,0
+341,2026-01-19,13710,Kansas City,Technical Issue,Monday,0
+479,2026-01-19,10985,Kansas City,Technical Issue,Monday,0
+796,2026-01-19,11252,Provo,Technical Issue,Monday,0
+809,2026-01-19,14854,Provo,Billing Inquiry,Monday,0
+816,2026-01-19,10900,Kansas City,Technical Issue,Monday,0
+865,2026-01-19,11249,Austin,Technical Issue,Monday,0
+921,2026-01-19,12016,Kansas City,Internet Speed,Monday,0
+951,2026-01-19,12985,Kansas City,Technical Issue,Monday,0
+20,2026-01-20,11848,Kansas City,Internet Speed,Tuesday,0
+138,2026-01-20,10220,Kansas City,Equipment Setup,Tuesday,0
+240,2026-01-20,13624,Kansas City,Technical Issue,Tuesday,0
+406,2026-01-20,14738,Provo,Equipment Setup,Tuesday,0
+532,2026-01-20,13150,Kansas City,Equipment Setup,Tuesday,0
+580,2026-01-20,10561,Austin,Technical Issue,Tuesday,0
+772,2026-01-20,11465,Provo,Technical Issue,Tuesday,0
+894,2026-01-20,12493,Kansas City,Internet Speed,Tuesday,0
+956,2026-01-20,14912,Kansas City,Equipment Setup,Tuesday,0
+102,2026-01-21,14950,Austin,Account Management,Wednesday,0
+162,2026-01-21,10070,Kansas City,Billing Inquiry,Wednesday,0
+278,2026-01-21,10371,Austin,Internet Speed,Wednesday,0
+352,2026-01-21,14446,Austin,Internet Speed,Wednesday,0
+373,2026-01-21,12088,Austin,Billing Inquiry,Wednesday,0
+398,2026-01-21,11092,Provo,Account Management,Wednesday,0
+413,2026-01-21,10607,Provo,Equipment Setup,Wednesday,0
+884,2026-01-21,14465,Provo,Technical Issue,Wednesday,0
+993,2026-01-21,12869,Kansas City,Account Management,Wednesday,0
+34,2026-01-22,14936,Austin,Account Management,Thursday,0
+273,2026-01-22,12006,Austin,Technical Issue,Thursday,1
+379,2026-01-22,10421,Austin,Account Management,Thursday,0
+449,2026-01-22,12079,Kansas City,Equipment Setup,Thursday,0
+454,2026-01-22,11034,Provo,Internet Speed,Thursday,0
+541,2026-01-22,14641,Kansas City,Account Management,Thursday,0
+864,2026-01-22,10312,Provo,Technical Issue,Thursday,0
+920,2026-01-22,14702,Austin,Internet Speed,Thursday,0
+28,2026-01-23,14629,Kansas City,Billing Inquiry,Friday,0
+29,2026-01-23,12401,Provo,Technical Issue,Friday,0
+231,2026-01-23,10849,Provo,Technical Issue,Friday,0
+469,2026-01-23,10639,Kansas City,Billing Inquiry,Friday,0
+178,2026-01-24,13446,Provo,Account Management,Saturday,0
+365,2026-01-24,11686,Austin,Account Management,Saturday,0
+430,2026-01-24,11834,Provo,Equipment Setup,Saturday,0
+480,2026-01-24,10085,Provo,Account Management,Saturday,0
+806,2026-01-24,11359,Provo,Technical Issue,Saturday,0
+807,2026-01-24,13068,Austin,Billing Inquiry,Saturday,0
+831,2026-01-24,11007,Austin,Technical Issue,Saturday,0
+895,2026-01-24,13747,Austin,Technical Issue,Saturday,0
+899,2026-01-24,13633,Kansas City,Technical Issue,Saturday,0
+26,2026-01-25,13301,Kansas City,Billing Inquiry,Sunday,0
+68,2026-01-25,12187,Provo,Technical Issue,Sunday,0
+69,2026-01-25,14130,Provo,Technical Issue,Sunday,0
+828,2026-01-25,11945,Kansas City,Equipment Setup,Sunday,0
+21,2026-01-26,12418,Kansas City,Billing Inquiry,Monday,0
+63,2026-01-26,14656,Kansas City,Billing Inquiry,Monday,0
+97,2026-01-26,10062,Provo,Billing Inquiry,Monday,0
+108,2026-01-26,11766,Provo,Account Management,Monday,0
+292,2026-01-26,14105,Kansas City,Technical Issue,Monday,0
+333,2026-01-26,10025,Austin,Technical Issue,Monday,0
+368,2026-01-26,11664,Austin,Equipment Setup,Monday,0
+412,2026-01-26,14557,Austin,Technical Issue,Monday,0
+416,2026-01-26,10169,Provo,Internet Speed,Monday,0
+429,2026-01-26,11217,Provo,Account Management,Monday,0
+485,2026-01-26,13611,Kansas City,Equipment Setup,Monday,0
+592,2026-01-26,13756,Provo,Internet Speed,Monday,0
+600,2026-01-26,14737,Provo,Billing Inquiry,Monday,0
+653,2026-01-26,12766,Kansas City,Internet Speed,Monday,0
+672,2026-01-26,14534,Austin,Internet Speed,Monday,0
+854,2026-01-26,12641,Kansas City,Equipment Setup,Monday,0
+877,2026-01-26,11198,Kansas City,Account Management,Monday,0
+925,2026-01-26,10439,Kansas City,Internet Speed,Monday,0
+27,2026-01-27,13062,Kansas City,Billing Inquiry,Tuesday,0
+82,2026-01-27,12827,Austin,Internet Speed,Tuesday,0
+435,2026-01-27,11004,Kansas City,Equipment Setup,Tuesday,0
+494,2026-01-27,10288,Kansas City,Billing Inquiry,Tuesday,0
+667,2026-01-27,10223,Kansas City,Account Management,Tuesday,0
+712,2026-01-27,13710,Kansas City,Technical Issue,Tuesday,0
+285,2026-01-28,11218,Austin,Technical Issue,Wednesday,0
+312,2026-01-28,12649,Kansas City,Internet Speed,Wednesday,0
+475,2026-01-28,11553,Austin,Internet Speed,Wednesday,0
+495,2026-01-28,10776,Provo,Billing Inquiry,Wednesday,0
+509,2026-01-28,10726,Provo,Internet Speed,Wednesday,0
+542,2026-01-28,11832,Austin,Billing Inquiry,Wednesday,0
+717,2026-01-28,11721,Austin,Billing Inquiry,Wednesday,0
+805,2026-01-28,11392,Austin,Billing Inquiry,Wednesday,0
+6,2026-01-29,13824,Provo,Account Management,Thursday,0
+33,2026-01-29,10049,Provo,Billing Inquiry,Thursday,0
+115,2026-01-29,11545,Provo,Equipment Setup,Thursday,0
+122,2026-01-29,13339,Kansas City,Internet Speed,Thursday,0
+192,2026-01-29,13933,Austin,Technical Issue,Thursday,0
+245,2026-01-29,12592,Austin,Account Management,Thursday,0
+329,2026-01-29,14073,Provo,Internet Speed,Thursday,0
+434,2026-01-29,11818,Provo,Internet Speed,Thursday,0
+484,2026-01-29,10760,Austin,Internet Speed,Thursday,0
+790,2026-01-29,10230,Provo,Equipment Setup,Thursday,0
+23,2026-01-30,11474,Provo,Billing Inquiry,Friday,0
+110,2026-01-30,13040,Kansas City,Internet Speed,Friday,0
+182,2026-01-30,11323,Austin,Billing Inquiry,Friday,0
+202,2026-01-30,12085,Austin,Internet Speed,Friday,0
+203,2026-01-30,11454,Austin,Account Management,Friday,0
+595,2026-01-30,10034,Kansas City,Account Management,Friday,0
+827,2026-01-30,13292,Provo,Account Management,Friday,0
+31,2026-01-31,10514,Provo,Account Management,Saturday,0
+76,2026-01-31,14942,Austin,Billing Inquiry,Saturday,0
+153,2026-01-31,14822,Austin,Technical Issue,Saturday,0
+275,2026-01-31,11938,Provo,Account Management,Saturday,0
+441,2026-01-31,14359,Austin,Equipment Setup,Saturday,0
+466,2026-01-31,12159,Austin,Internet Speed,Saturday,0
+620,2026-01-31,13684,Kansas City,Equipment Setup,Saturday,0
+771,2026-01-31,14474,Provo,Equipment Setup,Saturday,0
+838,2026-01-31,14326,Kansas City,Internet Speed,Saturday,0
+408,2026-02-01,12557,Kansas City,Equipment Setup,Sunday,0
+420,2026-02-01,10055,Provo,Technical Issue,Sunday,0
+455,2026-02-01,14410,Austin,Equipment Setup,Sunday,0
+659,2026-02-01,13970,Kansas City,Internet Speed,Sunday,0
+730,2026-02-01,10093,Kansas City,Technical Issue,Sunday,0
+748,2026-02-01,11051,Provo,Technical Issue,Sunday,0
+825,2026-02-01,14777,Austin,Account Management,Sunday,0
+941,2026-02-01,14167,Provo,Billing Inquiry,Sunday,0
+51,2026-02-02,12987,Kansas City,Internet Speed,Monday,0
+128,2026-02-02,11552,Austin,Technical Issue,Monday,0
+152,2026-02-02,14450,Kansas City,Account Management,Monday,0
+185,2026-02-02,10099,Kansas City,Technical Issue,Monday,0
+191,2026-02-02,12463,Provo,Technical Issue,Monday,0
+193,2026-02-02,13199,Austin,Technical Issue,Monday,0
+233,2026-02-02,14307,Austin,Account Management,Monday,0
+251,2026-02-02,14974,Provo,Account Management,Monday,0
+304,2026-02-02,14470,Kansas City,Equipment Setup,Monday,0
+324,2026-02-02,12604,Kansas City,Technical Issue,Monday,0
+328,2026-02-02,10088,Provo,Technical Issue,Monday,0
+336,2026-02-02,12249,Austin,Account Management,Monday,0
+356,2026-02-02,12359,Kansas City,Account Management,Monday,0
+418,2026-02-02,12169,Kansas City,Technical Issue,Monday,0
+551,2026-02-02,10228,Provo,Equipment Setup,Monday,0
+648,2026-02-02,13786,Kansas City,Account Management,Monday,0
+669,2026-02-02,13628,Kansas City,Billing Inquiry,Monday,0
+708,2026-02-02,13704,Kansas City,Equipment Setup,Monday,0
+801,2026-02-02,13076,Kansas City,Internet Speed,Monday,0
+813,2026-02-02,11554,Austin,Internet Speed,Monday,0
+837,2026-02-02,13203,Kansas City,Billing Inquiry,Monday,0
+843,2026-02-02,13374,Kansas City,Account Management,Monday,0
+874,2026-02-02,14901,Austin,Account Management,Monday,0
+878,2026-02-02,12089,Kansas City,Account Management,Monday,0
+958,2026-02-02,14184,Provo,Billing Inquiry,Monday,0
+978,2026-02-02,12175,Kansas City,Account Management,Monday,0
+16,2026-02-03,11646,Kansas City,Equipment Setup,Tuesday,0
+282,2026-02-03,14797,Kansas City,Account Management,Tuesday,0
+330,2026-02-03,11190,Provo,Internet Speed,Tuesday,0
+433,2026-02-03,10450,Provo,Billing Inquiry,Tuesday,0
+615,2026-02-03,13116,Provo,Equipment Setup,Tuesday,0
+645,2026-02-03,11216,Kansas City,Internet Speed,Tuesday,0
+650,2026-02-03,10368,Provo,Internet Speed,Tuesday,0
+678,2026-02-03,14396,Austin,Internet Speed,Tuesday,0
+682,2026-02-03,14014,Provo,Equipment Setup,Tuesday,0
+36,2026-02-04,13802,Provo,Billing Inquiry,Wednesday,0
+198,2026-02-04,11109,Provo,Technical Issue,Wednesday,0
+437,2026-02-04,11043,Austin,Technical Issue,Wednesday,0
+462,2026-02-04,11637,Austin,Account Management,Wednesday,0
+496,2026-02-04,10685,Austin,Equipment Setup,Wednesday,0
+820,2026-02-04,14720,Austin,Technical Issue,Wednesday,0
+886,2026-02-04,13332,Provo,Technical Issue,Wednesday,0
+952,2026-02-04,14749,Provo,Equipment Setup,Wednesday,0
+93,2026-02-05,12583,Kansas City,Technical Issue,Thursday,0
+253,2026-02-05,13851,Kansas City,Equipment Setup,Thursday,0
+337,2026-02-05,10379,Kansas City,Account Management,Thursday,0
+410,2026-02-05,11764,Provo,Technical Issue,Thursday,0
+519,2026-02-05,14706,Provo,Equipment Setup,Thursday,0
+546,2026-02-05,13672,Provo,Internet Speed,Thursday,0
+691,2026-02-05,13134,Kansas City,Equipment Setup,Thursday,0
+695,2026-02-05,10175,Provo,Billing Inquiry,Thursday,0
+701,2026-02-05,10448,Provo,Technical Issue,Thursday,0
+811,2026-02-05,12089,Austin,Technical Issue,Thursday,0
+14,2026-02-06,11258,Kansas City,Internet Speed,Friday,0
+22,2026-02-06,12014,Austin,Technical Issue,Friday,0
+47,2026-02-06,12357,Austin,Billing Inquiry,Friday,0
+144,2026-02-06,14399,Kansas City,Technical Issue,Friday,0
+331,2026-02-06,11108,Austin,Account Management,Friday,0
+458,2026-02-06,10622,Kansas City,Equipment Setup,Friday,0
+490,2026-02-06,13168,Austin,Internet Speed,Friday,0
+511,2026-02-06,13373,Provo,Account Management,Friday,0
+732,2026-02-06,14415,Austin,Internet Speed,Friday,0
+58,2026-02-07,12728,Provo,Equipment Setup,Saturday,0
+256,2026-02-07,10293,Provo,Technical Issue,Saturday,0
+263,2026-02-07,10334,Kansas City,Equipment Setup,Saturday,0
+274,2026-02-07,13739,Kansas City,Account Management,Saturday,0
+347,2026-02-07,10742,Kansas City,Internet Speed,Saturday,0
+402,2026-02-07,12559,Austin,Account Management,Saturday,0
+523,2026-02-07,10850,Kansas City,Technical Issue,Saturday,0
+538,2026-02-07,11271,Kansas City,Account Management,Saturday,0
+616,2026-02-07,13464,Austin,Technical Issue,Saturday,0
+649,2026-02-07,14076,Kansas City,Equipment Setup,Saturday,0
+758,2026-02-07,14814,Provo,Equipment Setup,Saturday,0
+775,2026-02-07,12582,Provo,Technical Issue,Saturday,0
+777,2026-02-07,10558,Kansas City,Internet Speed,Saturday,0
+8,2026-02-08,13657,Austin,Billing Inquiry,Sunday,0
+19,2026-02-08,14587,Austin,Internet Speed,Sunday,0
+125,2026-02-08,12925,Austin,Account Management,Sunday,0
+196,2026-02-08,11456,Austin,Billing Inquiry,Sunday,0
+305,2026-02-08,12719,Austin,Technical Issue,Sunday,0
+425,2026-02-08,14371,Provo,Equipment Setup,Sunday,0
+81,2026-02-09,11734,Kansas City,Billing Inquiry,Monday,0
+90,2026-02-09,10400,Kansas City,Equipment Setup,Monday,0
+119,2026-02-09,13995,Austin,Account Management,Monday,0
+133,2026-02-09,14356,Kansas City,Technical Issue,Monday,0
+228,2026-02-09,13119,Provo,Technical Issue,Monday,0
+260,2026-02-09,11018,Provo,Billing Inquiry,Monday,0
+362,2026-02-09,13280,Kansas City,Billing Inquiry,Monday,0
+395,2026-02-09,12941,Kansas City,Equipment Setup,Monday,0
+460,2026-02-09,13130,Kansas City,Internet Speed,Monday,0
+512,2026-02-09,14417,Provo,Internet Speed,Monday,0
+518,2026-02-09,13916,Austin,Billing Inquiry,Monday,0
+623,2026-02-09,12036,Austin,Internet Speed,Monday,0
+632,2026-02-09,13935,Kansas City,Equipment Setup,Monday,0
+639,2026-02-09,11454,Austin,Technical Issue,Monday,0
+642,2026-02-09,13743,Provo,Billing Inquiry,Monday,0
+724,2026-02-09,10428,Austin,Internet Speed,Monday,0
+734,2026-02-09,11746,Austin,Internet Speed,Monday,0
+751,2026-02-09,10459,Austin,Billing Inquiry,Monday,0
+810,2026-02-09,14881,Kansas City,Account Management,Monday,0
+823,2026-02-09,14412,Provo,Technical Issue,Monday,0
+824,2026-02-09,13464,Austin,Internet Speed,Monday,1
+839,2026-02-09,14010,Provo,Account Management,Monday,0
+845,2026-02-09,12649,Kansas City,Equipment Setup,Monday,0
+870,2026-02-09,11339,Austin,Billing Inquiry,Monday,0
+872,2026-02-09,14632,Kansas City,Billing Inquiry,Monday,0
+879,2026-02-09,12043,Austin,Internet Speed,Monday,0
+911,2026-02-09,10633,Austin,Internet Speed,Monday,0
+917,2026-02-09,10875,Provo,Internet Speed,Monday,0
+70,2026-02-10,13687,Kansas City,Technical Issue,Tuesday,0
+175,2026-02-10,10731,Kansas City,Technical Issue,Tuesday,0
+236,2026-02-10,14139,Austin,Billing Inquiry,Tuesday,0
+597,2026-02-10,12538,Austin,Technical Issue,Tuesday,0
+727,2026-02-10,10828,Provo,Equipment Setup,Tuesday,0
+804,2026-02-10,13361,Provo,Internet Speed,Tuesday,0
+906,2026-02-10,12721,Kansas City,Account Management,Tuesday,0
+186,2026-02-11,10426,Provo,Technical Issue,Wednesday,0
+377,2026-02-11,11921,Provo,Equipment Setup,Wednesday,0
+422,2026-02-11,10157,Provo,Account Management,Wednesday,0
+439,2026-02-11,14110,Kansas City,Account Management,Wednesday,0
+493,2026-02-11,14133,Provo,Account Management,Wednesday,0
+628,2026-02-11,10702,Kansas City,Billing Inquiry,Wednesday,0
+651,2026-02-11,13671,Kansas City,Equipment Setup,Wednesday,0
+723,2026-02-11,13737,Provo,Billing Inquiry,Wednesday,0
+954,2026-02-11,13406,Provo,Internet Speed,Wednesday,0
+135,2026-02-12,10832,Austin,Technical Issue,Thursday,0
+415,2026-02-12,14457,Kansas City,Account Management,Thursday,0
+880,2026-02-12,14565,Austin,Equipment Setup,Thursday,0
+908,2026-02-12,13098,Provo,Equipment Setup,Thursday,0
+126,2026-02-13,14872,Austin,Billing Inquiry,Friday,0
+142,2026-02-13,10653,Provo,Equipment Setup,Friday,0
+318,2026-02-13,13989,Kansas City,Account Management,Friday,0
+448,2026-02-13,10344,Kansas City,Equipment Setup,Friday,0
+670,2026-02-13,12580,Provo,Technical Issue,Friday,0
+671,2026-02-13,11046,Kansas City,Equipment Setup,Friday,0
+679,2026-02-13,13555,Austin,Technical Issue,Friday,0
+692,2026-02-13,12723,Austin,Internet Speed,Friday,0
+760,2026-02-13,10949,Austin,Account Management,Friday,0
+833,2026-02-13,14247,Austin,Technical Issue,Friday,0
+904,2026-02-13,10747,Kansas City,Billing Inquiry,Friday,0
+107,2026-02-14,12952,Kansas City,Internet Speed,Saturday,0
+136,2026-02-14,13776,Kansas City,Equipment Setup,Saturday,0
+370,2026-02-14,11454,Provo,Internet Speed,Saturday,0
+382,2026-02-14,14152,Provo,Internet Speed,Saturday,0
+587,2026-02-14,13658,Austin,Account Management,Saturday,0
+621,2026-02-14,11389,Kansas City,Billing Inquiry,Saturday,0
+167,2026-02-15,14973,Provo,Internet Speed,Sunday,0
+447,2026-02-15,13856,Provo,Account Management,Sunday,0
+453,2026-02-15,12544,Kansas City,Equipment Setup,Sunday,0
+636,2026-02-15,12776,Provo,Account Management,Sunday,0
+713,2026-02-15,10001,Austin,Billing Inquiry,Sunday,0
+873,2026-02-15,14360,Provo,Technical Issue,Sunday,0
+7,2026-02-16,10628,Austin,Internet Speed,Monday,0
+67,2026-02-16,14354,Kansas City,Internet Speed,Monday,0
+129,2026-02-16,10071,Kansas City,Account Management,Monday,0
+151,2026-02-16,14207,Kansas City,Billing Inquiry,Monday,0
+158,2026-02-16,10106,Kansas City,Account Management,Monday,0
+173,2026-02-16,14830,Austin,Billing Inquiry,Monday,0
+217,2026-02-16,11599,Kansas City,Equipment Setup,Monday,0
+361,2026-02-16,12680,Austin,Internet Speed,Monday,0
+394,2026-02-16,14587,Kansas City,Equipment Setup,Monday,0
+421,2026-02-16,10190,Austin,Billing Inquiry,Monday,0
+478,2026-02-16,14761,Austin,Account Management,Monday,0
+487,2026-02-16,14644,Kansas City,Account Management,Monday,0
+531,2026-02-16,11364,Kansas City,Internet Speed,Monday,0
+629,2026-02-16,13599,Kansas City,Account Management,Monday,0
+703,2026-02-16,10574,Provo,Equipment Setup,Monday,0
+710,2026-02-16,14436,Provo,Internet Speed,Monday,0
+718,2026-02-16,11470,Provo,Billing Inquiry,Monday,0
+770,2026-02-16,12520,Austin,Billing Inquiry,Monday,0
+780,2026-02-16,14139,Provo,Account Management,Monday,1
+782,2026-02-16,11631,Provo,Internet Speed,Monday,0
+791,2026-02-16,12631,Kansas City,Equipment Setup,Monday,0
+800,2026-02-16,12289,Provo,Equipment Setup,Monday,0
+863,2026-02-16,10592,Provo,Equipment Setup,Monday,0
+896,2026-02-16,13416,Kansas City,Equipment Setup,Monday,0
+922,2026-02-16,14834,Provo,Account Management,Monday,0
+928,2026-02-16,14310,Kansas City,Account Management,Monday,0
+938,2026-02-16,13671,Kansas City,Technical Issue,Monday,1
+973,2026-02-16,10551,Kansas City,Internet Speed,Monday,0
+2,2026-02-17,13168,Austin,Internet Speed,Tuesday,0
+219,2026-02-17,11179,Provo,Equipment Setup,Tuesday,0
+226,2026-02-17,11550,Kansas City,Internet Speed,Tuesday,0
+237,2026-02-17,11036,Provo,Billing Inquiry,Tuesday,0
+384,2026-02-17,11916,Provo,Billing Inquiry,Tuesday,0
+419,2026-02-17,13979,Austin,Account Management,Tuesday,0
+598,2026-02-17,11199,Provo,Technical Issue,Tuesday,0
+741,2026-02-17,14370,Austin,Internet Speed,Tuesday,0
+867,2026-02-17,11131,Austin,Billing Inquiry,Tuesday,0
+926,2026-02-17,10037,Provo,Account Management,Tuesday,0
+974,2026-02-17,11699,Kansas City,Internet Speed,Tuesday,0
+72,2026-02-18,14067,Kansas City,Equipment Setup,Wednesday,0
+117,2026-02-18,12708,Kansas City,Account Management,Wednesday,0
+388,2026-02-18,14454,Kansas City,Equipment Setup,Wednesday,0
+424,2026-02-18,13171,Austin,Account Management,Wednesday,0
+508,2026-02-18,11940,Provo,Account Management,Wednesday,0
+700,2026-02-18,11944,Provo,Billing Inquiry,Wednesday,0
+716,2026-02-18,13625,Provo,Billing Inquiry,Wednesday,0
+85,2026-02-19,13055,Kansas City,Internet Speed,Thursday,0
+210,2026-02-19,12542,Kansas City,Account Management,Thursday,0
+248,2026-02-19,11089,Kansas City,Billing Inquiry,Thursday,0
+534,2026-02-19,12837,Kansas City,Billing Inquiry,Thursday,0
+558,2026-02-19,11854,Kansas City,Billing Inquiry,Thursday,0
+789,2026-02-19,12276,Austin,Billing Inquiry,Thursday,0
+41,2026-02-20,14974,Provo,Internet Speed,Friday,0
+124,2026-02-20,14689,Provo,Billing Inquiry,Friday,0
+235,2026-02-20,13117,Provo,Technical Issue,Friday,0
+540,2026-02-20,12250,Provo,Account Management,Friday,0
+687,2026-02-20,11633,Kansas City,Equipment Setup,Friday,0
+849,2026-02-20,10372,Kansas City,Account Management,Friday,0
+43,2026-02-21,13450,Provo,Internet Speed,Saturday,0
+166,2026-02-21,12014,Kansas City,Technical Issue,Saturday,0
+386,2026-02-21,10762,Austin,Billing Inquiry,Saturday,0
+414,2026-02-21,13342,Provo,Internet Speed,Saturday,0
+634,2026-02-21,12360,Kansas City,Account Management,Saturday,0
+688,2026-02-21,11638,Kansas City,Billing Inquiry,Saturday,0
+762,2026-02-21,14408,Austin,Internet Speed,Saturday,0
+765,2026-02-21,13869,Provo,Billing Inquiry,Saturday,0
+60,2026-02-22,14040,Provo,Internet Speed,Sunday,0
+66,2026-02-22,13702,Austin,Equipment Setup,Sunday,0
+104,2026-02-22,14046,Provo,Account Management,Sunday,0
+212,2026-02-22,12584,Kansas City,Billing Inquiry,Sunday,0
+266,2026-02-22,11134,Provo,Billing Inquiry,Sunday,0
+426,2026-02-22,11305,Kansas City,Account Management,Sunday,0
+530,2026-02-22,10156,Kansas City,Internet Speed,Sunday,0
+549,2026-02-22,13161,Kansas City,Billing Inquiry,Sunday,0
+933,2026-02-22,10310,Kansas City,Internet Speed,Sunday,0
+972,2026-02-22,11270,Provo,Billing Inquiry,Sunday,0
+44,2026-02-23,14240,Provo,Equipment Setup,Monday,0
+50,2026-02-23,12850,Provo,Equipment Setup,Monday,0
+94,2026-02-23,10078,Kansas City,Account Management,Monday,0
+103,2026-02-23,13114,Kansas City,Account Management,Monday,0
+109,2026-02-23,14032,Provo,Billing Inquiry,Monday,0
+145,2026-02-23,12850,Austin,Internet Speed,Monday,0
+200,2026-02-23,14484,Provo,Account Management,Monday,0
+209,2026-02-23,14067,Austin,Account Management,Monday,1
+367,2026-02-23,12292,Provo,Account Management,Monday,0
+389,2026-02-23,12505,Provo,Billing Inquiry,Monday,0
+403,2026-02-23,13449,Austin,Internet Speed,Monday,0
+423,2026-02-23,13813,Kansas City,Equipment Setup,Monday,0
+497,2026-02-23,10978,Kansas City,Equipment Setup,Monday,0
+526,2026-02-23,11719,Provo,Billing Inquiry,Monday,0
+527,2026-02-23,10153,Provo,Billing Inquiry,Monday,0
+528,2026-02-23,14415,Austin,Equipment Setup,Monday,0
+591,2026-02-23,14668,Provo,Account Management,Monday,0
+593,2026-02-23,14958,Austin,Technical Issue,Monday,0
+607,2026-02-23,13994,Austin,Technical Issue,Monday,0
+608,2026-02-23,12070,Provo,Technical Issue,Monday,0
+619,2026-02-23,14800,Provo,Technical Issue,Monday,0
+684,2026-02-23,10535,Kansas City,Technical Issue,Monday,0
+689,2026-02-23,13149,Austin,Internet Speed,Monday,0
+709,2026-02-23,12780,Kansas City,Technical Issue,Monday,0
+715,2026-02-23,12492,Provo,Internet Speed,Monday,0
+738,2026-02-23,13064,Austin,Technical Issue,Monday,0
+892,2026-02-23,12894,Provo,Technical Issue,Monday,0
+900,2026-02-23,11967,Provo,Billing Inquiry,Monday,0
+916,2026-02-23,10840,Kansas City,Internet Speed,Monday,0
+949,2026-02-23,12394,Kansas City,Internet Speed,Monday,0
+987,2026-02-23,12789,Kansas City,Internet Speed,Monday,0
+10,2026-02-24,12237,Provo,Equipment Setup,Tuesday,0
+146,2026-02-24,14177,Austin,Internet Speed,Tuesday,0
+169,2026-02-24,11344,Austin,Internet Speed,Tuesday,0
+371,2026-02-24,13383,Provo,Billing Inquiry,Tuesday,0
+472,2026-02-24,10412,Provo,Account Management,Tuesday,0
+504,2026-02-24,11538,Austin,Billing Inquiry,Tuesday,0
+565,2026-02-24,11084,Kansas City,Equipment Setup,Tuesday,0
+764,2026-02-24,13630,Austin,Equipment Setup,Tuesday,0
+163,2026-02-25,12609,Kansas City,Account Management,Wednesday,0
+194,2026-02-25,14905,Austin,Technical Issue,Wednesday,0
+290,2026-02-25,10163,Kansas City,Technical Issue,Wednesday,0
+350,2026-02-25,11659,Kansas City,Account Management,Wednesday,0
+473,2026-02-25,12647,Austin,Technical Issue,Wednesday,0
+581,2026-02-25,12207,Provo,Internet Speed,Wednesday,0
+586,2026-02-25,14401,Kansas City,Billing Inquiry,Wednesday,0
+761,2026-02-25,14674,Kansas City,Internet Speed,Wednesday,0
+776,2026-02-25,11653,Kansas City,Equipment Setup,Wednesday,0
+11,2026-02-26,14380,Austin,Billing Inquiry,Thursday,0
+80,2026-02-26,10257,Austin,Billing Inquiry,Thursday,0
+141,2026-02-26,12651,Austin,Account Management,Thursday,0
+177,2026-02-26,12109,Kansas City,Account Management,Thursday,0
+264,2026-02-26,14555,Kansas City,Account Management,Thursday,0
+461,2026-02-26,11087,Kansas City,Technical Issue,Thursday,0
+573,2026-02-26,14242,Austin,Equipment Setup,Thursday,0
+694,2026-02-26,13837,Kansas City,Technical Issue,Thursday,0
+846,2026-02-26,12995,Austin,Technical Issue,Thursday,0
+868,2026-02-26,13156,Kansas City,Internet Speed,Thursday,0
+935,2026-02-26,14632,Austin,Account Management,Thursday,0
+937,2026-02-26,14700,Austin,Billing Inquiry,Thursday,0
+12,2026-02-27,10274,Austin,Technical Issue,Friday,0
+150,2026-02-27,12242,Provo,Billing Inquiry,Friday,0
+174,2026-02-27,11278,Austin,Account Management,Friday,0
+187,2026-02-27,12114,Provo,Billing Inquiry,Friday,0
+262,2026-02-27,10621,Kansas City,Billing Inquiry,Friday,0
+269,2026-02-27,13891,Kansas City,Account Management,Friday,0
+376,2026-02-27,14748,Kansas City,Billing Inquiry,Friday,0
+411,2026-02-27,11632,Austin,Billing Inquiry,Friday,0
+579,2026-02-27,13339,Provo,Account Management,Friday,0
+582,2026-02-27,12154,Austin,Account Management,Friday,0
+750,2026-02-27,11584,Kansas City,Account Management,Friday,0
+834,2026-02-27,12810,Kansas City,Internet Speed,Friday,0
+862,2026-02-27,13018,Provo,Billing Inquiry,Friday,0
+985,2026-02-27,10891,Provo,Account Management,Friday,0
+997,2026-02-27,10648,Kansas City,Technical Issue,Friday,0
+17,2026-02-28,11355,Kansas City,Internet Speed,Saturday,0
+438,2026-02-28,11825,Kansas City,Account Management,Saturday,0
+699,2026-02-28,14792,Austin,Technical Issue,Saturday,0
+711,2026-02-28,10386,Austin,Account Management,Saturday,0
+719,2026-02-28,14913,Kansas City,Internet Speed,Saturday,0
+759,2026-02-28,12246,Kansas City,Account Management,Saturday,0
+78,2026-03-01,13613,Provo,Equipment Setup,Sunday,0
+325,2026-03-01,10128,Kansas City,Internet Speed,Sunday,0
+334,2026-03-01,12300,Kansas City,Account Management,Sunday,0
+603,2026-03-01,11609,Kansas City,Equipment Setup,Sunday,0
+53,2026-03-02,12144,Austin,Internet Speed,Monday,0
+113,2026-03-02,14550,Austin,Technical Issue,Monday,0
+114,2026-03-02,14937,Kansas City,Equipment Setup,Monday,0
+165,2026-03-02,12243,Austin,Equipment Setup,Monday,0
+323,2026-03-02,11534,Kansas City,Technical Issue,Monday,0
+372,2026-03-02,13022,Austin,Technical Issue,Monday,0
+381,2026-03-02,14362,Austin,Equipment Setup,Monday,0
+444,2026-03-02,10455,Provo,Internet Speed,Monday,0
+482,2026-03-02,10942,Austin,Internet Speed,Monday,0
+498,2026-03-02,13661,Kansas City,Technical Issue,Monday,0
+568,2026-03-02,12377,Austin,Equipment Setup,Monday,0
+720,2026-03-02,13755,Kansas City,Technical Issue,Monday,0
+736,2026-03-02,11612,Austin,Internet Speed,Monday,0
+746,2026-03-02,11020,Provo,Internet Speed,Monday,0
+848,2026-03-02,13401,Kansas City,Account Management,Monday,0
+860,2026-03-02,13769,Provo,Technical Issue,Monday,0
+869,2026-03-02,13751,Kansas City,Billing Inquiry,Monday,0
+907,2026-03-02,14810,Austin,Equipment Setup,Monday,0
+953,2026-03-02,14162,Provo,Account Management,Monday,0
+981,2026-03-02,12241,Kansas City,Technical Issue,Monday,0
+996,2026-03-02,11091,Kansas City,Internet Speed,Monday,0
+64,2026-03-03,10507,Provo,Internet Speed,Tuesday,0
+92,2026-03-03,13669,Provo,Equipment Setup,Tuesday,0
+132,2026-03-03,12383,Provo,Billing Inquiry,Tuesday,0
+244,2026-03-03,10221,Provo,Account Management,Tuesday,0
+299,2026-03-03,14212,Provo,Technical Issue,Tuesday,0
+364,2026-03-03,13699,Austin,Equipment Setup,Tuesday,0
+432,2026-03-03,12414,Provo,Technical Issue,Tuesday,0
+513,2026-03-03,10463,Provo,Technical Issue,Tuesday,0
+536,2026-03-03,14543,Austin,Internet Speed,Tuesday,0
+556,2026-03-03,14416,Provo,Technical Issue,Tuesday,0
+889,2026-03-03,14307,Kansas City,Equipment Setup,Tuesday,0
+944,2026-03-03,10434,Austin,Billing Inquiry,Tuesday,0
+279,2026-03-04,11540,Kansas City,Account Management,Wednesday,0
+446,2026-03-04,12780,Kansas City,Billing Inquiry,Wednesday,0
+503,2026-03-04,12240,Austin,Account Management,Wednesday,0
+548,2026-03-04,12056,Austin,Billing Inquiry,Wednesday,0
+697,2026-03-04,12434,Provo,Account Management,Wednesday,0
+783,2026-03-04,11812,Kansas City,Technical Issue,Wednesday,0
+98,2026-03-05,10689,Austin,Internet Speed,Thursday,0
+242,2026-03-05,11500,Kansas City,Account Management,Thursday,0
+314,2026-03-05,12808,Provo,Equipment Setup,Thursday,0
+520,2026-03-05,12273,Kansas City,Technical Issue,Thursday,0
+547,2026-03-05,12407,Provo,Technical Issue,Thursday,0
+594,2026-03-05,11508,Austin,Billing Inquiry,Thursday,0
+644,2026-03-05,11410,Kansas City,Technical Issue,Thursday,0
+676,2026-03-05,14636,Austin,Billing Inquiry,Thursday,0
+887,2026-03-05,14787,Provo,Internet Speed,Thursday,0
+910,2026-03-05,10310,Kansas City,Billing Inquiry,Thursday,0
+943,2026-03-05,11203,Austin,Internet Speed,Thursday,0
+960,2026-03-05,14325,Provo,Billing Inquiry,Thursday,0
+56,2026-03-06,14554,Provo,Account Management,Friday,0
+633,2026-03-06,12742,Austin,Billing Inquiry,Friday,0
+781,2026-03-06,11838,Austin,Account Management,Friday,0
+821,2026-03-06,11744,Austin,Equipment Setup,Friday,0
+276,2026-03-07,11724,Kansas City,Internet Speed,Saturday,0
+387,2026-03-07,10896,Kansas City,Account Management,Saturday,0
+510,2026-03-07,13135,Austin,Account Management,Saturday,0
+706,2026-03-07,13550,Provo,Account Management,Saturday,0
+24,2026-03-08,13558,Kansas City,Account Management,Sunday,0
+89,2026-03-08,11051,Provo,Account Management,Sunday,0
+120,2026-03-08,10443,Kansas City,Technical Issue,Sunday,0
+265,2026-03-08,13740,Austin,Account Management,Sunday,0
+270,2026-03-08,10063,Kansas City,Account Management,Sunday,0
+346,2026-03-08,11379,Kansas City,Billing Inquiry,Sunday,0
+554,2026-03-08,10155,Kansas City,Billing Inquiry,Sunday,0
+662,2026-03-08,13622,Austin,Equipment Setup,Sunday,0
+733,2026-03-08,13958,Austin,Technical Issue,Sunday,0
+747,2026-03-08,12694,Austin,Technical Issue,Sunday,0
+819,2026-03-08,12974,Provo,Internet Speed,Sunday,0
+947,2026-03-08,11933,Provo,Account Management,Sunday,0
+968,2026-03-08,10035,Kansas City,Account Management,Sunday,0
+983,2026-03-08,11624,Austin,Equipment Setup,Sunday,0
+999,2026-03-08,11943,Provo,Internet Speed,Sunday,0
+15,2026-03-09,10288,Provo,Billing Inquiry,Monday,0
+37,2026-03-09,14196,Provo,Account Management,Monday,0
+49,2026-03-09,10623,Kansas City,Equipment Setup,Monday,0
+88,2026-03-09,12868,Provo,Equipment Setup,Monday,0
+139,2026-03-09,13895,Austin,Technical Issue,Monday,0
+148,2026-03-09,10379,Austin,Account Management,Monday,0
+249,2026-03-09,12482,Provo,Technical Issue,Monday,0
+258,2026-03-09,10347,Provo,Billing Inquiry,Monday,0
+259,2026-03-09,10837,Kansas City,Internet Speed,Monday,0
+338,2026-03-09,10608,Provo,Equipment Setup,Monday,0
+355,2026-03-09,13459,Kansas City,Equipment Setup,Monday,0
+404,2026-03-09,14226,Austin,Billing Inquiry,Monday,0
+427,2026-03-09,10400,Austin,Equipment Setup,Monday,0
+457,2026-03-09,14531,Austin,Technical Issue,Monday,0
+474,2026-03-09,13647,Kansas City,Technical Issue,Monday,0
+488,2026-03-09,12154,Provo,Technical Issue,Monday,0
+515,2026-03-09,13243,Austin,Internet Speed,Monday,0
+533,2026-03-09,12760,Austin,Billing Inquiry,Monday,0
+544,2026-03-09,11830,Provo,Internet Speed,Monday,0
+665,2026-03-09,10696,Austin,Account Management,Monday,0
+786,2026-03-09,12870,Austin,Equipment Setup,Monday,0
+853,2026-03-09,10087,Kansas City,Equipment Setup,Monday,0
+950,2026-03-09,13286,Provo,Account Management,Monday,0
+988,2026-03-09,12547,Provo,Billing Inquiry,Monday,0
+65,2026-03-10,11697,Kansas City,Internet Speed,Tuesday,0
+277,2026-03-10,12197,Provo,Billing Inquiry,Tuesday,0
+583,2026-03-10,12019,Provo,Account Management,Tuesday,0
+614,2026-03-10,13319,Kansas City,Account Management,Tuesday,0
+784,2026-03-10,12144,Provo,Internet Speed,Tuesday,0
+817,2026-03-10,11984,Austin,Billing Inquiry,Tuesday,0
+852,2026-03-10,14728,Austin,Internet Speed,Tuesday,0
+18,2026-03-11,11286,Kansas City,Billing Inquiry,Wednesday,0
+40,2026-03-11,14178,Austin,Equipment Setup,Wednesday,0
+147,2026-03-11,11269,Provo,Equipment Setup,Wednesday,0
+309,2026-03-11,13409,Kansas City,Internet Speed,Wednesday,0
+326,2026-03-11,11082,Provo,Internet Speed,Wednesday,0
+340,2026-03-11,12502,Kansas City,Account Management,Wednesday,0
+506,2026-03-11,14811,Kansas City,Internet Speed,Wednesday,0
+658,2026-03-11,12911,Provo,Internet Speed,Wednesday,0
+693,2026-03-11,13623,Provo,Billing Inquiry,Wednesday,0
+794,2026-03-11,12729,Provo,Technical Issue,Wednesday,0
+883,2026-03-11,14596,Kansas City,Technical Issue,Wednesday,0
+964,2026-03-11,14587,Provo,Billing Inquiry,Wednesday,0
+57,2026-03-12,10123,Austin,Equipment Setup,Thursday,0
+127,2026-03-12,13481,Provo,Internet Speed,Thursday,0
+252,2026-03-12,14333,Provo,Equipment Setup,Thursday,0
+363,2026-03-12,11899,Kansas City,Account Management,Thursday,0
+396,2026-03-12,12047,Kansas City,Billing Inquiry,Thursday,0
+452,2026-03-12,11162,Kansas City,Internet Speed,Thursday,0
+618,2026-03-12,14769,Austin,Technical Issue,Thursday,0
+652,2026-03-12,13394,Provo,Billing Inquiry,Thursday,0
+743,2026-03-12,14074,Austin,Internet Speed,Thursday,0
+829,2026-03-12,10998,Kansas City,Technical Issue,Thursday,0
+45,2026-03-13,14779,Kansas City,Equipment Setup,Friday,0
+75,2026-03-13,11787,Austin,Account Management,Friday,0
+159,2026-03-13,11871,Kansas City,Billing Inquiry,Friday,0
+348,2026-03-13,12290,Provo,Internet Speed,Friday,0
+456,2026-03-13,13074,Provo,Equipment Setup,Friday,0
+557,2026-03-13,11883,Provo,Technical Issue,Friday,0
+561,2026-03-13,12985,Austin,Technical Issue,Friday,0
+625,2026-03-13,11751,Provo,Technical Issue,Friday,0
+766,2026-03-13,13127,Provo,Account Management,Friday,0
+881,2026-03-13,11881,Austin,Account Management,Friday,0
+39,2026-03-14,11785,Kansas City,Internet Speed,Saturday,0
+157,2026-03-14,10246,Kansas City,Equipment Setup,Saturday,0
+272,2026-03-14,12333,Kansas City,Technical Issue,Saturday,0
+467,2026-03-14,14615,Provo,Internet Speed,Saturday,0
+562,2026-03-14,13949,Provo,Internet Speed,Saturday,0
+602,2026-03-14,14640,Provo,Internet Speed,Saturday,0
+637,2026-03-14,11110,Austin,Account Management,Saturday,0
+655,2026-03-14,14643,Austin,Account Management,Saturday,0
+664,2026-03-14,11954,Austin,Internet Speed,Saturday,0
+680,2026-03-14,10686,Austin,Equipment Setup,Saturday,0
+714,2026-03-14,13305,Provo,Equipment Setup,Saturday,0
+726,2026-03-14,10544,Provo,Billing Inquiry,Saturday,0
+990,2026-03-14,14884,Austin,Account Management,Saturday,0
+32,2026-03-15,10325,Austin,Account Management,Sunday,0
+59,2026-03-15,14853,Austin,Technical Issue,Sunday,0
+344,2026-03-15,10564,Provo,Billing Inquiry,Sunday,0
+359,2026-03-15,11354,Austin,Equipment Setup,Sunday,0
+491,2026-03-15,10298,Kansas City,Technical Issue,Sunday,0
+543,2026-03-15,11805,Austin,Billing Inquiry,Sunday,0
+566,2026-03-15,12299,Austin,Internet Speed,Sunday,0
+578,2026-03-15,14329,Provo,Technical Issue,Sunday,0
+599,2026-03-15,12987,Austin,Billing Inquiry,Sunday,0
+624,2026-03-15,14600,Provo,Account Management,Sunday,0
+661,2026-03-15,12853,Austin,Internet Speed,Sunday,0
+946,2026-03-15,14750,Provo,Equipment Setup,Sunday,0
+71,2026-03-16,11749,Austin,Billing Inquiry,Monday,0
+179,2026-03-16,12449,Provo,Internet Speed,Monday,0
+189,2026-03-16,12424,Kansas City,Billing Inquiry,Monday,0
+197,2026-03-16,10932,Kansas City,Account Management,Monday,0
+234,2026-03-16,13304,Provo,Internet Speed,Monday,0
+247,2026-03-16,10393,Provo,Internet Speed,Monday,0
+261,2026-03-16,13281,Kansas City,Equipment Setup,Monday,0
+295,2026-03-16,11229,Kansas City,Equipment Setup,Monday,0
+306,2026-03-16,10282,Kansas City,Internet Speed,Monday,0
+315,2026-03-16,14768,Kansas City,Billing Inquiry,Monday,0
+332,2026-03-16,11086,Provo,Account Management,Monday,0
+517,2026-03-16,10901,Austin,Technical Issue,Monday,0
+545,2026-03-16,12622,Provo,Equipment Setup,Monday,0
+570,2026-03-16,13810,Kansas City,Internet Speed,Monday,0
+571,2026-03-16,11704,Provo,Internet Speed,Monday,0
+574,2026-03-16,14346,Austin,Equipment Setup,Monday,0
+585,2026-03-16,11298,Kansas City,Internet Speed,Monday,0
+640,2026-03-16,12338,Austin,Billing Inquiry,Monday,0
+657,2026-03-16,13653,Kansas City,Internet Speed,Monday,0
+740,2026-03-16,14353,Provo,Technical Issue,Monday,0
+745,2026-03-16,12707,Provo,Equipment Setup,Monday,0
+754,2026-03-16,10808,Austin,Account Management,Monday,0
+769,2026-03-16,10738,Kansas City,Account Management,Monday,0
+847,2026-03-16,10546,Kansas City,Billing Inquiry,Monday,0
+871,2026-03-16,10810,Austin,Internet Speed,Monday,0
+909,2026-03-16,10304,Kansas City,Equipment Setup,Monday,0
+1,2026-03-17,10247,Austin,Equipment Setup,Tuesday,0
+143,2026-03-17,12911,Kansas City,Technical Issue,Tuesday,0
+164,2026-03-17,12199,Provo,Billing Inquiry,Tuesday,0
+286,2026-03-17,13199,Austin,Internet Speed,Tuesday,0
+499,2026-03-17,10986,Provo,Account Management,Tuesday,0
+755,2026-03-17,12101,Austin,Billing Inquiry,Tuesday,0
+768,2026-03-17,13848,Provo,Account Management,Tuesday,0
+795,2026-03-17,12535,Austin,Billing Inquiry,Tuesday,0
+803,2026-03-17,10020,Kansas City,Account Management,Tuesday,0
+890,2026-03-17,10443,Provo,Billing Inquiry,Tuesday,0
+349,2026-03-18,14091,Austin,Equipment Setup,Wednesday,0
+560,2026-03-18,14315,Kansas City,Billing Inquiry,Wednesday,0
+569,2026-03-18,11164,Provo,Account Management,Wednesday,0
+576,2026-03-18,13244,Austin,Equipment Setup,Wednesday,0
+875,2026-03-18,10189,Austin,Internet Speed,Wednesday,0
+876,2026-03-18,13914,Provo,Technical Issue,Wednesday,0
+106,2026-03-19,12344,Kansas City,Equipment Setup,Thursday,0
+154,2026-03-19,13196,Kansas City,Billing Inquiry,Thursday,0
+230,2026-03-19,13287,Kansas City,Account Management,Thursday,0
+319,2026-03-19,10648,Austin,Billing Inquiry,Thursday,0
+343,2026-03-19,13967,Austin,Internet Speed,Thursday,0
+535,2026-03-19,12146,Provo,Equipment Setup,Thursday,0
+553,2026-03-19,14788,Kansas City,Equipment Setup,Thursday,0
+572,2026-03-19,14187,Kansas City,Technical Issue,Thursday,0
+577,2026-03-19,14147,Kansas City,Account Management,Thursday,0
+609,2026-03-19,12955,Kansas City,Technical Issue,Thursday,0
+626,2026-03-19,12410,Kansas City,Billing Inquiry,Thursday,0
+195,2026-03-20,12134,Kansas City,Account Management,Friday,0
+229,2026-03-20,10190,Provo,Equipment Setup,Friday,0
+232,2026-03-20,10153,Kansas City,Internet Speed,Friday,0
+250,2026-03-20,11034,Austin,Account Management,Friday,0
+284,2026-03-20,13009,Austin,Account Management,Friday,0
+436,2026-03-20,10685,Kansas City,Technical Issue,Friday,0
+647,2026-03-20,12303,Austin,Equipment Setup,Friday,0
+685,2026-03-20,12601,Kansas City,Account Management,Friday,0
+731,2026-03-20,14849,Austin,Technical Issue,Friday,0
+901,2026-03-20,10081,Provo,Technical Issue,Friday,0
+966,2026-03-20,10683,Provo,Internet Speed,Friday,0
+3,2026-03-21,10440,Kansas City,Internet Speed,Saturday,0
+123,2026-03-21,12335,Provo,Billing Inquiry,Saturday,0
+293,2026-03-21,14463,Kansas City,Technical Issue,Saturday,0
+294,2026-03-21,10913,Austin,Internet Speed,Saturday,0
+335,2026-03-21,11867,Provo,Account Management,Saturday,0
+369,2026-03-21,14190,Austin,Equipment Setup,Saturday,0
+832,2026-03-21,11880,Kansas City,Equipment Setup,Saturday,0
+912,2026-03-21,13128,Kansas City,Technical Issue,Saturday,0
+962,2026-03-21,10897,Kansas City,Billing Inquiry,Saturday,0
+46,2026-03-22,13898,Kansas City,Equipment Setup,Sunday,0
+111,2026-03-22,13939,Provo,Technical Issue,Sunday,0
+220,2026-03-22,11519,Provo,Internet Speed,Sunday,0
+358,2026-03-22,11977,Austin,Equipment Setup,Sunday,0
+440,2026-03-22,11763,Provo,Billing Inquiry,Sunday,0
+610,2026-03-22,14372,Austin,Equipment Setup,Sunday,0
+698,2026-03-22,10093,Kansas City,Account Management,Sunday,0
+785,2026-03-22,13586,Kansas City,Internet Speed,Sunday,0
+840,2026-03-22,12884,Austin,Technical Issue,Sunday,0
+931,2026-03-22,12124,Kansas City,Account Management,Sunday,0
+99,2026-03-23,12977,Austin,Billing Inquiry,Monday,0
+180,2026-03-23,13432,Kansas City,Billing Inquiry,Monday,0
+190,2026-03-23,14369,Austin,Technical Issue,Monday,0
+199,2026-03-23,12739,Kansas City,Equipment Setup,Monday,0
+224,2026-03-23,12461,Kansas City,Technical Issue,Monday,0
+243,2026-03-23,11810,Provo,Account Management,Monday,0
+268,2026-03-23,11129,Kansas City,Account Management,Monday,0
+281,2026-03-23,12369,Provo,Internet Speed,Monday,0
+298,2026-03-23,11604,Provo,Billing Inquiry,Monday,0
+383,2026-03-23,10541,Austin,Technical Issue,Monday,0
+390,2026-03-23,12134,Austin,Account Management,Monday,1
+470,2026-03-23,13198,Provo,Internet Speed,Monday,0
+524,2026-03-23,10612,Provo,Equipment Setup,Monday,0
+559,2026-03-23,11591,Kansas City,Internet Speed,Monday,0
+590,2026-03-23,12436,Kansas City,Equipment Setup,Monday,0
+681,2026-03-23,12488,Kansas City,Internet Speed,Monday,0
+767,2026-03-23,14564,Kansas City,Equipment Setup,Monday,0
+773,2026-03-23,10242,Kansas City,Technical Issue,Monday,0
+778,2026-03-23,11594,Provo,Account Management,Monday,0
+815,2026-03-23,10142,Kansas City,Billing Inquiry,Monday,0
+858,2026-03-23,11452,Austin,Account Management,Monday,0
+897,2026-03-23,13290,Austin,Internet Speed,Monday,0
+939,2026-03-23,10203,Provo,Technical Issue,Monday,0
+982,2026-03-23,13424,Provo,Technical Issue,Monday,0
+994,2026-03-23,11109,Kansas City,Account Management,Monday,0
+1000,2026-03-23,10548,Provo,Internet Speed,Monday,0
+255,2026-03-24,13222,Kansas City,Technical Issue,Tuesday,0
+288,2026-03-24,13269,Provo,Account Management,Tuesday,0
+501,2026-03-24,12762,Kansas City,Billing Inquiry,Tuesday,0
+521,2026-03-24,11646,Kansas City,Technical Issue,Tuesday,0
+529,2026-03-24,11580,Provo,Account Management,Tuesday,0
+702,2026-03-24,10297,Austin,Technical Issue,Tuesday,0
+728,2026-03-24,11666,Austin,Billing Inquiry,Tuesday,0
+788,2026-03-24,13309,Kansas City,Equipment Setup,Tuesday,0
+835,2026-03-24,13058,Kansas City,Billing Inquiry,Tuesday,0
+989,2026-03-24,12126,Kansas City,Account Management,Tuesday,0
+9,2026-03-25,10158,Kansas City,Technical Issue,Wednesday,0
+38,2026-03-25,10334,Austin,Account Management,Wednesday,0
+54,2026-03-25,12081,Kansas City,Account Management,Wednesday,0
+183,2026-03-25,11377,Kansas City,Internet Speed,Wednesday,0
+296,2026-03-25,10749,Provo,Equipment Setup,Wednesday,0
+351,2026-03-25,13518,Kansas City,Internet Speed,Wednesday,0
+354,2026-03-25,10378,Austin,Account Management,Wednesday,0
+405,2026-03-25,14133,Provo,Internet Speed,Wednesday,0
+589,2026-03-25,12914,Kansas City,Billing Inquiry,Wednesday,0
+646,2026-03-25,14546,Kansas City,Equipment Setup,Wednesday,0
+857,2026-03-25,12469,Provo,Billing Inquiry,Wednesday,0
+918,2026-03-25,11935,Provo,Billing Inquiry,Wednesday,0
+927,2026-03-25,12045,Provo,Internet Speed,Wednesday,0
+991,2026-03-25,14089,Provo,Billing Inquiry,Wednesday,0
+30,2026-03-26,11390,Kansas City,Technical Issue,Thursday,0
+55,2026-03-26,13044,Austin,Technical Issue,Thursday,0
+87,2026-03-26,12999,Austin,Billing Inquiry,Thursday,0
+171,2026-03-26,14757,Provo,Internet Speed,Thursday,0
+188,2026-03-26,10701,Austin,Technical Issue,Thursday,0
+749,2026-03-26,10116,Kansas City,Equipment Setup,Thursday,0
+942,2026-03-26,10759,Provo,Technical Issue,Thursday,0
+948,2026-03-26,14232,Austin,Technical Issue,Thursday,0
+986,2026-03-26,11793,Austin,Billing Inquiry,Thursday,0
+998,2026-03-26,12570,Provo,Billing Inquiry,Thursday,0
+83,2026-03-27,10720,Austin,Internet Speed,Friday,0
+95,2026-03-27,10424,Provo,Internet Speed,Friday,0
+208,2026-03-27,12424,Provo,Billing Inquiry,Friday,0
+223,2026-03-27,14619,Provo,Equipment Setup,Friday,0
+320,2026-03-27,12193,Austin,Technical Issue,Friday,0
+468,2026-03-27,12911,Provo,Equipment Setup,Friday,0
+502,2026-03-27,14982,Austin,Technical Issue,Friday,0
+552,2026-03-27,13694,Austin,Billing Inquiry,Friday,0
+612,2026-03-27,10939,Provo,Equipment Setup,Friday,0
+705,2026-03-27,10409,Kansas City,Account Management,Friday,0
+756,2026-03-27,12391,Austin,Billing Inquiry,Friday,0
+156,2026-03-28,11478,Kansas City,Billing Inquiry,Saturday,0
+205,2026-03-28,11375,Kansas City,Equipment Setup,Saturday,0
+500,2026-03-28,11314,Kansas City,Internet Speed,Saturday,0
+674,2026-03-28,13305,Kansas City,Technical Issue,Saturday,0
+802,2026-03-28,10215,Kansas City,Internet Speed,Saturday,0
+841,2026-03-28,11913,Austin,Billing Inquiry,Saturday,0
+52,2026-03-29,14479,Kansas City,Account Management,Sunday,0
+215,2026-03-29,10644,Austin,Billing Inquiry,Sunday,0
+391,2026-03-29,12169,Austin,Account Management,Sunday,0
+635,2026-03-29,13989,Kansas City,Internet Speed,Sunday,0
+729,2026-03-29,14773,Kansas City,Internet Speed,Sunday,0
+929,2026-03-29,10667,Kansas City,Technical Issue,Sunday,0
+134,2026-03-30,14647,Kansas City,Account Management,Monday,0
+214,2026-03-30,14465,Provo,Equipment Setup,Monday,0
+227,2026-03-30,10246,Provo,Equipment Setup,Monday,0
+353,2026-03-30,11139,Kansas City,Billing Inquiry,Monday,0
+380,2026-03-30,11901,Kansas City,Billing Inquiry,Monday,0
+393,2026-03-30,11289,Provo,Technical Issue,Monday,0
+431,2026-03-30,11482,Austin,Internet Speed,Monday,0
+442,2026-03-30,14011,Kansas City,Equipment Setup,Monday,0
+465,2026-03-30,14620,Austin,Billing Inquiry,Monday,0
+489,2026-03-30,13514,Provo,Equipment Setup,Monday,0
+555,2026-03-30,13458,Austin,Internet Speed,Monday,0
+567,2026-03-30,10941,Austin,Internet Speed,Monday,0
+596,2026-03-30,12280,Provo,Billing Inquiry,Monday,0
+605,2026-03-30,14831,Austin,Billing Inquiry,Monday,0
+668,2026-03-30,12895,Provo,Billing Inquiry,Monday,0
+722,2026-03-30,10400,Provo,Billing Inquiry,Monday,0
+774,2026-03-30,14263,Kansas City,Equipment Setup,Monday,0
+812,2026-03-30,12271,Kansas City,Billing Inquiry,Monday,0
+818,2026-03-30,13516,Kansas City,Billing Inquiry,Monday,0
+826,2026-03-30,10734,Austin,Equipment Setup,Monday,0
+830,2026-03-30,12511,Austin,Equipment Setup,Monday,0
+844,2026-03-30,11500,Austin,Equipment Setup,Monday,0
+866,2026-03-30,13439,Austin,Account Management,Monday,0
+898,2026-03-30,11070,Austin,Equipment Setup,Monday,0
+959,2026-03-30,11695,Provo,Internet Speed,Monday,0
+84,2026-03-31,11470,Provo,Internet Speed,Tuesday,0
+105,2026-03-31,11502,Austin,Technical Issue,Tuesday,0
+140,2026-03-31,10214,Provo,Technical Issue,Tuesday,0
+297,2026-03-31,13519,Provo,Internet Speed,Tuesday,0
+327,2026-03-31,11630,Provo,Account Management,Tuesday,0
+443,2026-03-31,10470,Provo,Billing Inquiry,Tuesday,0
+588,2026-03-31,10484,Austin,Technical Issue,Tuesday,0
+902,2026-03-31,10002,Kansas City,Account Management,Tuesday,0
+969,2026-03-31,12466,Kansas City,Account Management,Tuesday,0
+707,2026-04-06,14408,Provo,Technical Issue,Monday,0

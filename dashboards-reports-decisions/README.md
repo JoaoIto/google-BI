@@ -26,7 +26,10 @@ Guia de busca de vagas, networking e construção de portfólio.
 - **🍱 [Habilidades Transferíveis](./carreira/habilidades-transferiveis.md)**: A importância das "Soft Skills".
 - **📄 [Portfólio e Currículo](./carreira/portfolio-e-curriculo.md)**: Como se destacar no mercado.
 
-### 4. [📖 Glossário Técnico de BI](./GLOSSARIO.md)
+### 4. [🚀 Projeto Final: Google Fiber](./projeto-final-google-fiber/README.md)
+Análise de chamadas repetidas e eficácia de suporte. Projeto de encerramento do programa.
+
+### 5. [📖 Glossário Técnico de BI](./GLOSSARIO.md)
 Definições de termos críticos como *Pain Points*, *Drill-down*, *Action Filters* e *Cross-filtering*.
 
 ### 3. [🎨 Princípios de Design e Acessibilidade](./visualizacao/design_principles.md)
