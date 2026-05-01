@@ -60,8 +60,27 @@ Abaixo, detalhamos a configuração de cada visualização para atender às nece
 - **Filtros Relativos**: Filtro de `Date Time` configurado para "Últimos 7 dias".
 
 ---
-## Documentação Relacionada
-- [Respostas do Desafio de Gráficos](desafio-graficos.md)
+## 🏗️ Parte 3: Montagem do Dashboard
+
+Nesta fase final, integramos as visualizações individuais em um único painel coeso e interativo.
+
+### Resultado Final (Visão Consolidada)
+![Painel Final MnDOT](assets/final_dashboard.png)
+
+### Estratégia de Organização
+1.  **Hierarquia Visual**: O gráfico de **Sazonalidade Mensal** foi posicionado no topo e expandido lateralmente para destacar sua importância como métrica principal de monitoramento.
+2.  **Agrupamento por Tópicos**: As análises de apoio (Clima e Feriados) foram colocadas lado a lado na base do painel, permitindo uma comparação rápida de fatores externos que influenciam o tráfego.
+3.  **Uso de Espaço Negativo**: Mantivemos margens consistentes entre os gráficos para evitar a sobrecarga visual e facilitar a navegação ocular.
+4.  **Dicas de Ferramenta (Tooltips)**: Foram configuradas para fornecer o valor exato do volume de tráfego e a porcentagem de variação ao passar o mouse, removendo a necessidade de excesso de rótulos estáticos.
+
+### Interatividade e Exploração
+- **Filtros Globais**: Adicionados filtros de ano e mês que afetam todas as visualizações simultaneamente.
+- **Legendas Próximas**: As legendas de cores para o clima e de tamanho para os feriados foram posicionadas imediatamente ao lado de seus respectivos gráficos.
 
 ---
-*Status: Gráficos concluídos e organizados em assets.*
+## Documentação Relacionada
+- [Respostas: Criação de Gráficos](desafio-graficos.md)
+- [Respostas: Organização do Painel](desafio-dashboard.md)
+
+---
+*Status: Projeto de Monitoramento MnDOT Concluído.*

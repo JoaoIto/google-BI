@@ -14,11 +14,9 @@ Aplicar conhecimentos de BI e Modelagem de dados para criar dashboards dinâmico
 - 📂 [**Base: Fundamentos de Dashboards**](base/README.md)
   - 🧩 [Estudo de Caso 1: Clínica Médica](base/mockup-clinica/README.md)
   - 🧩 [Estudo de Caso 2: Allegis Group (Coorte)](base/allegis-case-study/README.md)
-- 📂 [**Visualização: Design e Resultados**](visualizacao/README.md)
-  - 🎨 [Princípios de Design e Acessibilidade](visualizacao/design_principles.md)
-- 📂 [**Ferramentas: Tecnologias e Softwares**](ferramentas/README.md)
-  - 📊 [Guia Técnico: Tableau Public](ferramentas/tableau_guide.md)
-- 📂 [**Monitoramento: Projeto MnDOT**](painel/projeto/monitoramento-trafego/README.md)
+- 📂 [**Dashboards e Painéis: Teoria e Prática**](painel/README.md)
+  - 🧩 [Projeto: Monitoramento MnDOT](painel/projeto/monitoramento-trafego/README.md)
+  - 🧩 [Projeto: Airbnb Atenas](painel/projeto/athenas-airbnb/README.md)
 - 📖 [**Glossário do Curso**](GLOSSARIO.md)
 
 ---
