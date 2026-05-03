@@ -3,15 +3,43 @@
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td style="border: none; padding: 10px;">
-        <a href="https://coursera.org/verify/O3KJO7CXWBTA">
-          <img src="https://github.com/JoaoIto/google-bi-foundaments/blob/main/foundaments-bi/assets/certificado.png?raw=true" alt="Certificado 1" width="400">
+      <td style="border: none; padding: 10px; vertical-align: middle;">
+        <a href="https://www.credly.com/badges/22ab4c3c-d3ea-4dce-ae6d-25f5c920859e/public_url">
+          <img src="./assets/business-intelligence-badge.jpeg" alt="Google Business Intelligence Badge" width="180">
         </a>
       </td>
-      <td style="border: none; padding: 10px;">
-        <a href="https://coursera.org/verify/6O7KNFKOXU4W">
-          <img src="https://github.com/JoaoIto/google-bi-foundaments/blob/main/data-models-pipelines-insights/assets/certificado2.png?raw=true" alt="Certificado 2" width="400">
+      <td style="border: none; padding: 10px; vertical-align: middle;">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/Z1IENH8NM9E1">
+          <img src="./assets/business-intelligence-certificate.png" alt="Certificado Profissional" width="550">
         </a>
+      </td>
+    </tr>
+  </table>
+
+  <h3>🏆 Certificação Profissional Concluída</h3>
+  <p>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/Z1IENH8NM9E1"><b>Certificado de Especialização</b></a> • 
+    <a href="https://www.credly.com/badges/22ab4c3c-d3ea-4dce-ae6d-25f5c920859e/public_url"><b>Credly Badge</b></a> • 
+    <a href="./assets/business-intelligence-certificate.pdf"><b>Versão PDF</b></a>
+  </p>
+
+  <hr width="80%">
+
+  <h4>🎓 Certificados dos Módulos</h4>
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 5px;">
+        <a href="https://coursera.org/verify/O3KJO7CXWBTA">
+          <img src="https://github.com/JoaoIto/google-bi-foundaments/blob/main/foundaments-bi/assets/certificado.png?raw=true" alt="Certificado 1" width="280">
+        </a>
+      </td>
+      <td style="border: none; padding: 5px;">
+        <a href="https://coursera.org/verify/6O7KNFKOXU4W">
+          <img src="https://github.com/JoaoIto/google-bi-foundaments/blob/main/data-models-pipelines-insights/assets/certificado2.png?raw=true" alt="Certificado 2" width="280">
+        </a>
+      </td>
+      <td style="border: none; padding: 5px;">
+        <img src="./dashboards-reports-decisions/assets/dashboards-google.png" alt="Certificado 3" width="280">
       </td>
     </tr>
   </table>
@@ -45,8 +73,9 @@ O segundo módulo aprofunda-se na engenharia dos dados. Foca em como planejar ba
 
 ### 3 Curso 3: Decisions, Decisions: Dashboards and Reports
 Este módulo final foca na entrega de valor através da visualização. Aprendemos a criar dashboards dinâmicos, aplicar princípios de design para clareza visual e comunicar insights técnicos para tomadores de decisão não técnicos.
-* **Status:** Em Andamento 🏗️
-* **Projeto Principal:** Mockups e Dashboard Capstone (Tableau).
+* **Status:** Concluído ✅
+* **Projeto Principal:** Dashboard Capstone e Mockups (Tableau/Google Fiber).
+* **[Acessar Projeto Final: Google Fiber](./dashboards-reports-decisions/projeto-final-google-fiber/README.md)**
 * **[Acessar a Documentação Técnica](./dashboards-reports-decisions/README.md)**
 
 ---
@@ -64,4 +93,6 @@ No decorrer destes projetos, aplicamos as seguintes tecnologias:
 
 <div align="center">
  <sub>Documentação desenvolvida com base na currícula oficial da <a href="https://www.coursera.org/professional-certificates/google-business-intelligence">Certificação Profissional do Google em BI</a>.</sub>
+
+<sub>Concluído por <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-p%C3%B3voa-fran%C3%A7a-97502420b/">João Victor Póvoa França</a></sub>
 </div>
