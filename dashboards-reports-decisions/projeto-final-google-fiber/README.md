@@ -16,6 +16,8 @@ O planejamento inicial foca na organização dos componentes para responder às 
 
 O dashboard foi estruturado em quatro dimensões principais para permitir o drill-down de dados:
 
+![Dashboard Final - Google Fiber](https://github.com/JoaoIto/google-BI/blob/main/dashboards-reports-decisions/projeto-final-google-fiber/assets/dashboard_final_tab1.png?raw=true)
+
 ### 1. Tendências Temporais (Mês e Semana)
 - **Visualização**: Gráficos de barras mostrando a cadência de chamadas repetidas por mês.
 - **Insight**: Identificação de picos sazonais de reincidência.
