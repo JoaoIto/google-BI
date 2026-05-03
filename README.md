@@ -1,4 +1,13 @@
 # Google Business Intelligence Professional Certificate
+<p align="left">
+  <a href="https://www.credly.com/badges/22ab4c3c-d3ea-4dce-ae6d-25f5c920859e/public_url">
+    <img src="https://img.shields.io/badge/Google-Certified%20Professional-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Certified">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/Z1IENH8NM9E1">
+    <img src="https://img.shields.io/badge/Coursera-Specialization-orange?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Completed">
+</p>
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
@@ -95,4 +104,6 @@ No decorrer destes projetos, aplicamos as seguintes tecnologias:
  <sub>Documentação desenvolvida com base na currícula oficial da <a href="https://www.coursera.org/professional-certificates/google-business-intelligence">Certificação Profissional do Google em BI</a>.</sub>
 
 <sub>Concluído por <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-p%C3%B3voa-fran%C3%A7a-97502420b/">João Victor Póvoa França</a></sub>
+<br>
+<img src="https://img.shields.io/badge/Google-Certified-blue?logo=google" alt="Google"> <img src="https://img.shields.io/badge/Verified-Credential-green?logo=credly" alt="Verified">
 </div>
