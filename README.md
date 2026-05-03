@@ -57,6 +57,24 @@
 
 ---
 
+## 🛠️ Competências Técnicas & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-BigQuery-blue?style=flat-square&logo=googlecloud&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tableau-Interativo-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Modelagem-Star%20Schema-FFD700?style=flat-square" alt="Modeling">
+  <img src="https://img.shields.io/badge/ETL-Pipelines-8A2BE2?style=flat-square" alt="ETL">
+  <img src="https://img.shields.io/badge/Data%20Visualizaton-Storytelling-critical?style=flat-square" alt="Dataviz">
+</p>
+
+### 🚀 Destaques da Certificação
+- **Análise End-to-End**: Desde a coleta e limpeza de dados (SQL/Python) até a entrega de insights estratégicos.
+- **Cultura de BI**: Foco total na resolução de problemas de negócios reais (Caso Google Fiber).
+- **Design Analytics**: Criação de dashboards acessíveis, intuitivos e orientados à ação (Action-Oriented Dashboards).
+
+---
+
 ## Sobre este Repositório
 
 Este repositório centraliza todos os projetos, documentações e anotações técnicas desenvolvidas durante o **Google Business Intelligence Professional Certificate**. A formação prepara profissionais de dados para coletar, estruturar, analisar e visualizar informações para a tomada de decisões de negócios.
